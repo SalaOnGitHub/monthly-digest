@@ -1,0 +1,102 @@
+{
+  "topic": "manga",
+  "month": "2026-10",
+  "asOf": "2026-10-28",
+  "title": "Manga",
+  "intro": "Neue Reihen, große Sammelausgaben und ein Blick auf kommende Lizenzen: zehn ausgewählte Manga-Meldungen bis 28. Oktober. Deutsche und englischsprachige Ausgaben sind getrennt gekennzeichnet; die Veröffentlichungstermine stammen von den Verlagen.",
+  "items": [
+    {
+      "title": "Dandadan geht auf Englisch in Band 21",
+      "date": "2026-10-06",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Fortsetzung · EN",
+      "summary": "VIZ führt den 6. Oktober als Veröffentlichungstermin für den 21. englischsprachigen Band von Yukinobu Tatsus Dandadan. Die Handlung greift die Suche nach einer rätselhaften Lehrperson auf, während Seiko versucht, Momo zu helfen.",
+      "whyItMatters": "Für englischsprachige Leserinnen und Leser geht die übernatürliche Geschichte mit einem weiteren Band weiter.",
+      "sources": [{"label": "VIZ · Dandadan, Vol. 21", "url": "https://www.viz.com/manga-books/manga/dandadan-volume-21-0/product/9024/paperback"}]
+    },
+    {
+      "title": "Drachenschwingen und Meeresbrise startet auf Deutsch",
+      "date": "2026-10-12",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Serienstart · DE",
+      "summary": "altraverse datiert den ersten Band von Asato Shimas Drachenschwingen und Meeresbrise auf den 12. Oktober. Der Verlag ordnet die Reihe dem Fantasy-Genre zu und nennt einen Shojo-Star als Extra der Erstauflage.",
+      "whyItMatters": "Ein erster Band bietet einen unkomplizierten Einstieg in eine neue Reihe.",
+      "sources": [{"label": "altraverse · Band 01", "url": "https://altraverse.de/manga/drachenschwingen-und-meeresbrise/2604/drachenschwingen-und-meeresbrise-band-01"}]
+    },
+    {
+      "title": "Case Closed erreicht den englischen Band 100",
+      "date": "2026-10-13",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Meilenstein · EN",
+      "summary": "Die englische Ausgabe von Gosho Aoyamas Case Closed erreicht laut VIZ am 13. Oktober ihren hundertsten Band. Conan bekommt es darin mit Angriffen auf verdeckt arbeitende FBI-Mitglieder und seinen Gegnern in Schwarz zu tun.",
+      "whyItMatters": "Die runde Bandnummer markiert einen gut sichtbaren Meilenstein der englischen Veröffentlichung.",
+      "sources": [{"label": "VIZ · Case Closed, Vol. 100", "url": "https://www.viz.com/manga-books/manga/case-closed-volume-100-0/product/9028/paperback"}]
+    },
+    {
+      "title": "Kodansha kündigt neue Print-Lizenzen für 2027 an",
+      "date": "2026-10-15",
+      "dateType": "Ankündigung",
+      "tag": "Lizenzen · EN",
+      "summary": "Kodansha stellte am 15. Oktober neue englischsprachige Print-Lizenzen vor, darunter Burn the House Down für Januar 2027 und Ark of the Canaries für April 2027. Die Ankündigung umfasst außerdem neue Reihen für Herbst 2027; diese Titel sind also ein Ausblick und keine Oktober-Neuerscheinungen.",
+      "whyItMatters": "Die Meldung zeigt, welche bislang digitalen oder neu lizenzierten Geschichten als englische Bücher geplant sind.",
+      "sources": [{"label": "Kodansha · Lizenzankündigung vom 15. Oktober", "url": "https://kodansha.us/2026/10/15/kodansha-print-club-fall-2027-print-licenses-announced-at-kodansha-house-ny/"}]
+    },
+    {
+      "title": "Maomaos Palastnotizen starten bei VIZ",
+      "date": "2026-10-20",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Serienstart · EN",
+      "summary": "VIZ führt den ersten englischen Band von The Apothecary Diaries: Maomao’s Notes on the Inner Palace für den 20. Oktober. Die von Minoji Kurata gezeichnete Fassung nach Hyuganatsus Geschichte folgt Maomao bei Untersuchungen am Kaiserhof und ihrem Einsatz als Vorkosterin.",
+      "whyItMatters": "Der vollständige Untertitel und der Name der Zeichnerin helfen, diese Ausgabe gezielt zu finden.",
+      "sources": [{"label": "VIZ · Maomao’s Notes on the Inner Palace, Vol. 1", "url": "https://www.viz.com/manga-books/manga/apothecary-diaries-maomao-s-notes-on-the-inner-palace-volume-1-0/product/9014/paperback"}]
+    },
+    {
+      "title": "Yona bekommt eine englische 3-in-1-Ausgabe",
+      "date": "2026-10-20",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Sammelausgabe · EN",
+      "summary": "Mit dem Termin 20. Oktober startet VIZ die 3-in-1-Ausgabe von Mizuho Kusanagis Yona of the Dawn. Der erste Sammelband umfasst laut Verlag 576 Seiten und beginnt mit Yonas Flucht aus dem Palast an der Seite ihres Beschützers Hak.",
+      "whyItMatters": "Das neue Sammelformat bietet eine weitere Möglichkeit, die Geschichte von Anfang an auf Englisch zu lesen.",
+      "sources": [{"label": "VIZ · Yona of the Dawn, 3-in-1 Edition", "url": "https://www.viz.com/manga-books/manga/yona-of-the-dawn-3-in-1-edition-volume-1-0/product/9016/paperback"}]
+    },
+    {
+      "title": "Undead Unluck erreicht sein englisches Finale",
+      "date": "2026-10-20",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Abschlussband · EN",
+      "summary": "VIZ listet Band 27 von Yoshifumi Tozukas Undead Unluck für den 20. Oktober und kennzeichnet ihn im Monatskalender als Abschlussband. Die englische Ausgabe führt Fuuko und ihre Verbündeten in die entscheidende Auseinandersetzung um Ragnarøk.",
+      "whyItMatters": "Wer abgeschlossene Reihen bevorzugt, hat damit einen klaren Endpunkt für die englische Sammlung.",
+      "sources": [
+        {"label": "VIZ · Undead Unluck, Vol. 27", "url": "https://www.viz.com/manga-books/manga/undead-unluck-volume-27-0/product/9050/paperback"},
+        {"label": "VIZ · Oktober-Kalender, Kennzeichnung als Abschlussband", "url": "https://www.viz.com/calendar/2026/10"}
+      ]
+    },
+    {
+      "title": "The Climber beginnt als deutsche Doppelband-Edition",
+      "date": "2026-10-27",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Serienstart · DE",
+      "summary": "Carlsen nennt den 27. Oktober als Starttermin seiner deutschen Doppelband-Edition von The Climber. Der erste Band umfasst 454 Seiten und begleitet Buntaro Mori, der im Klettern eine neue Leidenschaft entdeckt.",
+      "whyItMatters": "Die Reihe verbindet Bergsport mit einer Geschichte über Einsamkeit und persönliche Grenzen.",
+      "sources": [{"label": "Carlsen · The Climber Doppelband-Edition 1", "url": "https://www.carlsen.de/softcover/climber-doppelband-edition-1/978-3-551-80951-3"}]
+    },
+    {
+      "title": "Deserter sammelt frühe Kurzgeschichten von Junji Ito",
+      "date": "2026-10-27",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Horror · DE",
+      "summary": "Carlsen führt Junji Itos Deserter mit dem Erscheinungstermin 27. Oktober. Der deutsche Einzelband versammelt zwölf frühe Horrorgeschichten auf 392 Seiten und wird vom Verlag ab 16 Jahren empfohlen.",
+      "whyItMatters": "Die Sammlung bietet einen Einstieg in Itos frühes Schaffen ohne den Beginn einer langen Reihe.",
+      "sources": [{"label": "Carlsen · Deserter", "url": "https://www.carlsen.de/hardcover/deserter/978-3-551-80959-9"}]
+    },
+    {
+      "title": "Jujutsu Kaisen kommt als komplette englische Box",
+      "date": "2026-10-27",
+      "dateType": "Veröffentlichung laut Verlag",
+      "tag": "Komplettbox · EN",
+      "summary": "VIZ datiert das Jujutsu Kaisen Complete Box Set auf den 27. Oktober. Die englischsprachige Box enthält laut Verlag die 30 Bände der Hauptreihe, zusätzlich Band 0 und ein beidseitig bedrucktes Poster.",
+      "whyItMatters": "Die komplette Geschichte lässt sich damit als zusammenhängende englische Sammlung erwerben.",
+      "sources": [{"label": "VIZ · Jujutsu Kaisen Complete Box Set", "url": "https://www.viz.com/manga-books/manga/jujutsu-kaisen-complete-box-set/product/9017/paperback"}]
+    }
+  ]
+}
