@@ -18,7 +18,23 @@ window.digestCatalog = {
               "label": "Royal Swedish Academy of Sciences",
               "url": "https://www.kva.se/en/news/the-nobel-prize-in-physics-2026/"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-01.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_ICL_at_Dawn.jpg",
+            "credit": "John Hardin / Wikimedia Commons",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "alt": {
+              "en": "The IceCube Laboratory at the South Pole under the Milky Way and aurora before dawn",
+              "de": "Das IceCube-Labor am Südpol unter Milchstraße und Polarlicht vor Tagesanbruch"
+            },
+            "caption": {
+              "en": "The IceCube Laboratory before dawn, August 2020 (archival photograph).",
+              "de": "Das IceCube-Labor vor Tagesanbruch, August 2020 (Archivaufnahme)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/The_ICL_at_Dawn.jpg/960px-The_ICL_at_Dawn.jpg"
+          }
         },
         {
           "title": "Navi Pillay awarded the Nobel Peace Prize",
@@ -31,7 +47,23 @@ window.digestCatalog = {
               "label": "Norwegian Nobel Committee",
               "url": "https://www.nobelpeaceprize.org/press/press-releases/nobel-peace-prize-for-2026"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-02.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Navi_Pillay_June_2014.jpg",
+            "credit": "U.S. Mission Geneva / Eric Bridiers",
+            "license": "Public domain (U.S. government work)",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "alt": {
+              "en": "Navi Pillay at the United Nations Human Rights Council in June 2014",
+              "de": "Navi Pillay beim Menschenrechtsrat der Vereinten Nationen im Juni 2014"
+            },
+            "caption": {
+              "en": "Navi Pillay at the Human Rights Council, June 2014 (archival photograph).",
+              "de": "Navi Pillay beim Menschenrechtsrat, Juni 2014 (Archivaufnahme)."
+            },
+            "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/24/Navi_Pillay_June_2014.jpg"
+          }
         },
         {
           "title": "IMF forecasts uneven growth and higher inflation",
@@ -44,7 +76,23 @@ window.digestCatalog = {
               "label": "IMF · World Economic Outlook, October 2026",
               "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-03.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg",
+            "credit": "International Monetary Fund / Wikimedia Commons",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg#Licensing",
+            "alt": {
+              "en": "Headquarters of the International Monetary Fund in Washington, D.C.",
+              "de": "Hauptsitz des Internationalen Währungsfonds in Washington, D.C."
+            },
+            "caption": {
+              "en": "The IMF headquarters in Washington, D.C. (illustrative photograph).",
+              "de": "Der IWF-Hauptsitz in Washington, D.C. (Symbolbild)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/IMF_building_HR.jpg/960px-IMF_building_HR.jpg"
+          }
         },
         {
           "title": "EU and Ukraine open more accession chapters",
@@ -57,7 +105,23 @@ window.digestCatalog = {
               "label": "Council of the European Union",
               "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-eu-opens-accession-negotiations-with-ukraine-on-internal-market-competitiveness-and-inclusive-growth/"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-04.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flags_of_EU_and_Ukraine.jpg",
+            "credit": "Andrew Bossi / Wikimedia Commons",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "alt": {
+              "en": "European Union and Ukrainian flags displayed on a building in Kyiv",
+              "de": "Flaggen der Europäischen Union und der Ukraine an einem Gebäude in Kyjiw"
+            },
+            "caption": {
+              "en": "EU and Ukrainian flags in Kyiv, 2008 (illustrative photograph).",
+              "de": "EU- und Ukraine-Flaggen in Kyjiw, 2008 (Symbolbild)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Flags_of_EU_and_Ukraine.jpg/960px-Flags_of_EU_and_Ukraine.jpg"
+          }
         },
         {
           "title": "COP17 reviews progress on protecting nature",
@@ -70,7 +134,23 @@ window.digestCatalog = {
               "label": "UN Environment Programme · COP17",
               "url": "https://www.unep.org/en/events/conference/unep-un-biodiversity-conference"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-05.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Misty_forest_in_Dilijan.jpg",
+            "credit": "Mar Mkrtchyan / Wikimedia Commons",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "alt": {
+              "en": "Trees above a mist-covered forest valley in Dilijan, Armenia",
+              "de": "Bäume über einem nebelverhangenen Waldtal in Dilidschan, Armenien"
+            },
+            "caption": {
+              "en": "Forest landscape in Dilijan, Armenia, April 2023 (illustrative photograph).",
+              "de": "Waldlandschaft in Dilidschan, Armenien, April 2023 (Symbolbild)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Misty_forest_in_Dilijan.jpg/960px-Misty_forest_in_Dilijan.jpg"
+          }
         },
         {
           "title": "Yemen: fighting threatens Taiz's water supply",
@@ -83,7 +163,23 @@ window.digestCatalog = {
               "label": "UNICEF · Taiz situation report",
               "url": "https://www.unicef.org/press-releases/water-over-16-million-children-taiz-risk-fighting-intensifies-yemen"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-06.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_crisis_in_sana'a.jpg",
+            "credit": "Julien Harneis / Wikimedia Commons",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "alt": {
+              "en": "Water distribution in Sana'a, Yemen",
+              "de": "Wasserversorgung in Sanaa, Jemen"
+            },
+            "caption": {
+              "en": "Illustrative archival photo: water distribution in Sana'a, Yemen, May 2015.",
+              "de": "Symbolbild aus dem Archiv: Wasserversorgung in Sanaa, Jemen, Mai 2015."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Water_crisis_in_sana%27a.jpg/960px-Water_crisis_in_sana%27a.jpg"
+          }
         },
         {
           "title": "Malaria vaccine price set to fall",
@@ -96,7 +192,23 @@ window.digestCatalog = {
               "label": "UNICEF and Gavi · Vaccine pricing agreement",
               "url": "https://www.unicef.org/press-releases/gavi-and-unicef-secure-lower-malaria-vaccine-price-saving-us50-million-childhood"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-07.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anopheles_stephensi.jpeg",
+            "credit": "Jim Gathany / CDC",
+            "license": "Public domain (U.S. federal government)",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-HHS-CDC",
+            "alt": {
+              "en": "An Anopheles stephensi mosquito feeding on a human host",
+              "de": "Eine Anopheles-stephensi-Mücke bei der Blutaufnahme an einem Menschen"
+            },
+            "caption": {
+              "en": "Illustrative archival photo: Anopheles stephensi mosquito, a malaria vector, photographed in 2004.",
+              "de": "Symbolbild aus dem Archiv: Anopheles-stephensi-Mücke, ein Malariaüberträger, aufgenommen 2004."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Anopheles_stephensi.jpeg/960px-Anopheles_stephensi.jpeg"
+          }
         },
         {
           "title": "WHO reports further spread of the Ebola outbreak",
@@ -109,7 +221,23 @@ window.digestCatalog = {
               "label": "WHO · Disease Outbreak News, October 23",
               "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-08.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ebola_Virus.jpg",
+            "credit": "CDC / Public Health Image Library, ID 1836",
+            "license": "Public domain (U.S. federal government)",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-HHS-CDC",
+            "alt": {
+              "en": "Scanning electron micrograph of Ebola virus particles",
+              "de": "Rasterelektronenmikroskopische Aufnahme von Ebola-Viruspartikeln"
+            },
+            "caption": {
+              "en": "Illustrative archival electron micrograph of Ebola virus particles; not an image from the reported outbreak.",
+              "de": "Symbolbild: historische elektronenmikroskopische Aufnahme von Ebola-Viruspartikeln, keine Aufnahme aus dem gemeldeten Ausbruch."
+            },
+            "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ebola_Virus.jpg"
+          }
         },
         {
           "title": "Brazil: Lula wins the presidential runoff",
@@ -126,7 +254,23 @@ window.digestCatalog = {
               "label": "Reuters via MarketScreener",
               "url": "https://www.marketscreener.com/news/brazil-votes-in-tight-runoff-between-leftist-lula-and-bolsonaro-jr-ce785cdfd18bff21"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-09.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(quadrada).jpg",
+            "credit": "Ricardo Stuckert / Presidência da República, via Wikimedia Commons",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "alt": {
+              "en": "Official portrait of Luiz Inácio Lula da Silva",
+              "de": "Offizielles Porträt von Luiz Inácio Lula da Silva"
+            },
+            "caption": {
+              "en": "Official portrait of Luiz Inácio Lula da Silva, February 2023 (archival photo; square crop published on Wikimedia Commons).",
+              "de": "Offizielles Porträt von Luiz Inácio Lula da Silva, Februar 2023 (Archivfoto; auf Wikimedia Commons veröffentlichter quadratischer Ausschnitt)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28quadrada%29.jpg/960px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28quadrada%29.jpg"
+          }
         },
         {
           "title": "Greenhouse gases reach record levels again",
@@ -139,7 +283,23 @@ window.digestCatalog = {
               "label": "World Meteorological Organization",
               "url": "https://wmo.int/news/media-centre/greenhouse-gas-levels-once-again-reach-record-high"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-10.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:DTE_Monroe_Power_Plant.jpg",
+            "credit": "JGone41 / Wikimedia Commons",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "alt": {
+              "en": "DTE Monroe power plant in Monroe, Michigan",
+              "de": "Kraftwerk DTE Monroe in Monroe, Michigan"
+            },
+            "caption": {
+              "en": "Illustrative photo: DTE Monroe power plant in Michigan, photographed in January 2026.",
+              "de": "Symbolbild: Kraftwerk DTE Monroe in Michigan, aufgenommen im Jänner 2026."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/DTE_Monroe_Power_Plant.jpg/960px-DTE_Monroe_Power_Plant.jpg"
+          }
         }
       ]
     },
@@ -161,7 +321,23 @@ window.digestCatalog = {
               "label": "Königlich Schwedische Akademie der Wissenschaften",
               "url": "https://www.kva.se/en/news/the-nobel-prize-in-physics-2026/"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-01.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_ICL_at_Dawn.jpg",
+            "credit": "John Hardin / Wikimedia Commons",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "alt": {
+              "en": "The IceCube Laboratory at the South Pole under the Milky Way and aurora before dawn",
+              "de": "Das IceCube-Labor am Südpol unter Milchstraße und Polarlicht vor Tagesanbruch"
+            },
+            "caption": {
+              "en": "The IceCube Laboratory before dawn, August 2020 (archival photograph).",
+              "de": "Das IceCube-Labor vor Tagesanbruch, August 2020 (Archivaufnahme)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/The_ICL_at_Dawn.jpg/960px-The_ICL_at_Dawn.jpg"
+          }
         },
         {
           "title": "Navi Pillay erhält den Friedensnobelpreis",
@@ -174,7 +350,23 @@ window.digestCatalog = {
               "label": "Norwegisches Nobelkomitee",
               "url": "https://www.nobelpeaceprize.org/press/press-releases/nobel-peace-prize-for-2026"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-02.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Navi_Pillay_June_2014.jpg",
+            "credit": "U.S. Mission Geneva / Eric Bridiers",
+            "license": "Public domain (U.S. government work)",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "alt": {
+              "en": "Navi Pillay at the United Nations Human Rights Council in June 2014",
+              "de": "Navi Pillay beim Menschenrechtsrat der Vereinten Nationen im Juni 2014"
+            },
+            "caption": {
+              "en": "Navi Pillay at the Human Rights Council, June 2014 (archival photograph).",
+              "de": "Navi Pillay beim Menschenrechtsrat, Juni 2014 (Archivaufnahme)."
+            },
+            "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/24/Navi_Pillay_June_2014.jpg"
+          }
         },
         {
           "title": "IWF erwartet ungleiches Wachstum und höhere Inflation",
@@ -187,7 +379,23 @@ window.digestCatalog = {
               "label": "IWF · World Economic Outlook, Oktober 2026",
               "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-03.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg",
+            "credit": "International Monetary Fund / Wikimedia Commons",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg#Licensing",
+            "alt": {
+              "en": "Headquarters of the International Monetary Fund in Washington, D.C.",
+              "de": "Hauptsitz des Internationalen Währungsfonds in Washington, D.C."
+            },
+            "caption": {
+              "en": "The IMF headquarters in Washington, D.C. (illustrative photograph).",
+              "de": "Der IWF-Hauptsitz in Washington, D.C. (Symbolbild)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/IMF_building_HR.jpg/960px-IMF_building_HR.jpg"
+          }
         },
         {
           "title": "EU und Ukraine öffnen weitere Beitrittskapitel",
@@ -200,7 +408,23 @@ window.digestCatalog = {
               "label": "Rat der Europäischen Union",
               "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-eu-opens-accession-negotiations-with-ukraine-on-internal-market-competitiveness-and-inclusive-growth/"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-04.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flags_of_EU_and_Ukraine.jpg",
+            "credit": "Andrew Bossi / Wikimedia Commons",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "alt": {
+              "en": "European Union and Ukrainian flags displayed on a building in Kyiv",
+              "de": "Flaggen der Europäischen Union und der Ukraine an einem Gebäude in Kyjiw"
+            },
+            "caption": {
+              "en": "EU and Ukrainian flags in Kyiv, 2008 (illustrative photograph).",
+              "de": "EU- und Ukraine-Flaggen in Kyjiw, 2008 (Symbolbild)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Flags_of_EU_and_Ukraine.jpg/960px-Flags_of_EU_and_Ukraine.jpg"
+          }
         },
         {
           "title": "COP17 prüft den Fortschritt beim Schutz der Natur",
@@ -213,7 +437,23 @@ window.digestCatalog = {
               "label": "UN-Umweltprogramm UNEP · COP17",
               "url": "https://www.unep.org/en/events/conference/unep-un-biodiversity-conference"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-05.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Misty_forest_in_Dilijan.jpg",
+            "credit": "Mar Mkrtchyan / Wikimedia Commons",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "alt": {
+              "en": "Trees above a mist-covered forest valley in Dilijan, Armenia",
+              "de": "Bäume über einem nebelverhangenen Waldtal in Dilidschan, Armenien"
+            },
+            "caption": {
+              "en": "Forest landscape in Dilijan, Armenia, April 2023 (illustrative photograph).",
+              "de": "Waldlandschaft in Dilidschan, Armenien, April 2023 (Symbolbild)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Misty_forest_in_Dilijan.jpg/960px-Misty_forest_in_Dilijan.jpg"
+          }
         },
         {
           "title": "Jemen: Kämpfe gefährden die Wasserversorgung in Taiz",
@@ -226,7 +466,23 @@ window.digestCatalog = {
               "label": "UNICEF · Lagebericht aus Taiz",
               "url": "https://www.unicef.org/press-releases/water-over-16-million-children-taiz-risk-fighting-intensifies-yemen"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-06.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_crisis_in_sana'a.jpg",
+            "credit": "Julien Harneis / Wikimedia Commons",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "alt": {
+              "en": "Water distribution in Sana'a, Yemen",
+              "de": "Wasserversorgung in Sanaa, Jemen"
+            },
+            "caption": {
+              "en": "Illustrative archival photo: water distribution in Sana'a, Yemen, May 2015.",
+              "de": "Symbolbild aus dem Archiv: Wasserversorgung in Sanaa, Jemen, Mai 2015."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Water_crisis_in_sana%27a.jpg/960px-Water_crisis_in_sana%27a.jpg"
+          }
         },
         {
           "title": "Malaria-Impfstoff soll günstiger werden",
@@ -239,7 +495,23 @@ window.digestCatalog = {
               "label": "UNICEF und Gavi · Preisvereinbarung",
               "url": "https://www.unicef.org/press-releases/gavi-and-unicef-secure-lower-malaria-vaccine-price-saving-us50-million-childhood"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-07.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anopheles_stephensi.jpeg",
+            "credit": "Jim Gathany / CDC",
+            "license": "Public domain (U.S. federal government)",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-HHS-CDC",
+            "alt": {
+              "en": "An Anopheles stephensi mosquito feeding on a human host",
+              "de": "Eine Anopheles-stephensi-Mücke bei der Blutaufnahme an einem Menschen"
+            },
+            "caption": {
+              "en": "Illustrative archival photo: Anopheles stephensi mosquito, a malaria vector, photographed in 2004.",
+              "de": "Symbolbild aus dem Archiv: Anopheles-stephensi-Mücke, ein Malariaüberträger, aufgenommen 2004."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Anopheles_stephensi.jpeg/960px-Anopheles_stephensi.jpeg"
+          }
         },
         {
           "title": "WHO meldet eine weitere Ausbreitung des Ebola-Ausbruchs",
@@ -252,7 +524,23 @@ window.digestCatalog = {
               "label": "WHO · Disease Outbreak News, 23. Oktober",
               "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-08.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ebola_Virus.jpg",
+            "credit": "CDC / Public Health Image Library, ID 1836",
+            "license": "Public domain (U.S. federal government)",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-HHS-CDC",
+            "alt": {
+              "en": "Scanning electron micrograph of Ebola virus particles",
+              "de": "Rasterelektronenmikroskopische Aufnahme von Ebola-Viruspartikeln"
+            },
+            "caption": {
+              "en": "Illustrative archival electron micrograph of Ebola virus particles; not an image from the reported outbreak.",
+              "de": "Symbolbild: historische elektronenmikroskopische Aufnahme von Ebola-Viruspartikeln, keine Aufnahme aus dem gemeldeten Ausbruch."
+            },
+            "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ebola_Virus.jpg"
+          }
         },
         {
           "title": "Brasilien: Lula gewinnt die Präsidenten-Stichwahl",
@@ -269,7 +557,23 @@ window.digestCatalog = {
               "label": "Reuters via MarketScreener",
               "url": "https://www.marketscreener.com/news/brazil-votes-in-tight-runoff-between-leftist-lula-and-bolsonaro-jr-ce785cdfd18bff21"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-09.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(quadrada).jpg",
+            "credit": "Ricardo Stuckert / Presidência da República, via Wikimedia Commons",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "alt": {
+              "en": "Official portrait of Luiz Inácio Lula da Silva",
+              "de": "Offizielles Porträt von Luiz Inácio Lula da Silva"
+            },
+            "caption": {
+              "en": "Official portrait of Luiz Inácio Lula da Silva, February 2023 (archival photo; square crop published on Wikimedia Commons).",
+              "de": "Offizielles Porträt von Luiz Inácio Lula da Silva, Februar 2023 (Archivfoto; auf Wikimedia Commons veröffentlichter quadratischer Ausschnitt)."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28quadrada%29.jpg/960px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28quadrada%29.jpg"
+          }
         },
         {
           "title": "Treibhausgase erreichen erneut Rekordwerte",
@@ -282,7 +586,23 @@ window.digestCatalog = {
               "label": "Weltorganisation für Meteorologie WMO",
               "url": "https://wmo.int/news/media-centre/greenhouse-gas-levels-once-again-reach-record-high"
             }
-          ]
+          ],
+          "image": {
+            "src": "assets/world-10.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:DTE_Monroe_Power_Plant.jpg",
+            "credit": "JGone41 / Wikimedia Commons",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "alt": {
+              "en": "DTE Monroe power plant in Monroe, Michigan",
+              "de": "Kraftwerk DTE Monroe in Monroe, Michigan"
+            },
+            "caption": {
+              "en": "Illustrative photo: DTE Monroe power plant in Michigan, photographed in January 2026.",
+              "de": "Symbolbild: Kraftwerk DTE Monroe in Michigan, aufgenommen im Jänner 2026."
+            },
+            "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/DTE_Monroe_Power_Plant.jpg/960px-DTE_Monroe_Power_Plant.jpg"
+          }
         }
       ]
     }

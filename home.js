@@ -30,7 +30,12 @@ function renderTopic(key,announce=true){
  document.querySelector('.brand')?.setAttribute('aria-label',de?'Monthly Digest Startseite':'Monthly Digest home');
  document.getElementById('topic-panel')?.setAttribute('aria-labelledby','tab-'+key);
  setText('ai-tab-name',topicCopy[lang].ai.name);setText('world-tab-name',topicCopy[lang].world.name);
- setText('topic-label',topic.label);setText('headline-first',topic.first);setText('headline-second',topic.second);setText('topic-description',topic.description);setText('latest-note',topic.note);setText('cover-topic',topic.label);setText('cover-symbol',topic.symbol);setText('cover-date',de?'OKT / 2026':'OCT / 2026');setText('cover-label',de?'DIE OKTOBER-AUSGABE':'THE OCTOBER ISSUE');
+ setText('topic-label',topic.label);setText('headline-first',topic.first);setText('headline-second',topic.second);setText('topic-description',topic.description);setText('latest-note',topic.note);setText('cover-topic',topic.label);setText('cover-date',de?'OKT / 2026':'OCT / 2026');setText('cover-label',de?'DIE OKTOBER-AUSGABE':'THE OCTOBER ISSUE');
+ const photo=window.digestImages[key];
+ const coverImage=document.getElementById('cover-image');if(coverImage){coverImage.src=photo.src;coverImage.alt=photo.alt[lang];}
+ setText('cover-caption',photo.caption[lang]);
+ const creditLink=document.getElementById('cover-credit-link');if(creditLink){creditLink.href=photo.sourceUrl;creditLink.textContent=photo.credit;}
+ const licenseLink=document.getElementById('cover-license-link');if(licenseLink){licenseLink.href=photo.licenseUrl;licenseLink.textContent=photo.license;}
  const coverTitle=document.getElementById('cover-title');if(coverTitle)coverTitle.replaceChildren(document.createTextNode(topic.cover[0]),document.createElement('br'),document.createTextNode(topic.cover[1]));
  for(const id of ['latest-link','cover-link']){const link=document.getElementById(id);if(link)link.href=L.url(topic.path);}
  document.getElementById('cover-link')?.setAttribute('aria-label',de?topic.name+'-Digest für Oktober 2026 öffnen':'Open the October 2026 '+topic.name+' digest');
@@ -43,10 +48,13 @@ function renderTopic(key,announce=true){
  const preview=document.getElementById('issue-preview');if(preview)preview.hidden=!data;
  const previews=document.getElementById('story-preview');
  if(previews)previews.replaceChildren(...(data?.items||[]).slice(0,3).map((item,index)=>{
-  const link=document.createElement('a');link.className='story-teaser';link.href=L.url(topic.path+'#'+(index+1));
+  const article=document.createElement('article');article.className='story-teaser';
+  const link=document.createElement('a');link.className='teaser-main';link.href=L.url(topic.path+'#'+(index+1));
+  const image=document.createElement('img');image.className='story-teaser-image';image.src=item.image.src;image.alt=item.image.alt[lang];image.loading='lazy';image.decoding='async';image.width=960;image.height=600;
   const label=document.createElement('span');label.className='teaser-label';label.textContent='0'+(index+1)+' / '+item.tag;
   const title=document.createElement('h3');title.textContent=item.title;
-  const footer=document.createElement('span');footer.className='teaser-footer';footer.textContent=de?'Meldung lesen ↗':'Read story ↗';link.append(label,title,footer);return link;
+  const footer=document.createElement('span');footer.className='teaser-footer';footer.textContent=de?'Meldung lesen ↗':'Read story ↗';link.append(image,label,title,footer);
+  const credit=document.createElement('p');credit.className='teaser-photo-credit';credit.append(document.createTextNode(de?'Bild: ':'Photo: '));const source=document.createElement('a');source.href=item.image.sourceUrl;source.target='_blank';source.rel='noopener noreferrer';source.textContent=item.image.credit;credit.append(source,document.createTextNode(' · '+item.image.license));article.append(link,credit);return article;
  }));
  if(announce)setText('topic-announcement',de?topic.name+': '+topic.count+' '+(topic.count===1?'Ausgabe':'Ausgaben')+' verfügbar.':topic.name+': '+topic.count+' '+(topic.count===1?'issue':'issues')+' available.');
 }

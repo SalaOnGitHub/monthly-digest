@@ -26,7 +26,7 @@ The AI archive, its original design and slide navigation come from [AI Monthly D
 
 English AI story text and source links are retained. German translations, the language selector, navigation improvements and the bilingual world-news edition were added for SalaOnGitHub.
 
-Images in the AI archive load from external providers and retain their original credits. Their respective owners retain image rights; the software license does not grant additional image rights. World-news artwork uses typographic illustrations.
+Images in the AI archive load from external providers and retain their original credits. Their respective owners retain image rights; the software license does not grant additional image rights. The topic covers and every world-news story include photographs with visible attribution and license links. Archival and illustrative images are identified in captions. These twelve photos are served from the repository, with full provenance in `data/images.json`.
 
 ## Source layout
 
@@ -43,4 +43,5 @@ After editing world-news content, run `node scripts/build-digests.cjs`. The fini
 ## Hosting
 
 GitHub Pages publishes `main`, directory `/(root)`. The `.nojekyll` file disables Jekyll processing. All internal paths are relative, supporting the GitHub Pages project subdirectory.
+
 

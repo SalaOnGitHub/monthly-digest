@@ -12,8 +12,8 @@
    card.querySelector('h2').textContent=item.title;
    card.querySelector('.story-summary').textContent=item.summary;
    card.querySelector('.context p:last-child').textContent=item.whyItMatters;
-   card.querySelector('.art-topic').textContent=data.title.toUpperCase();
-   card.querySelector('.art-issue').firstChild.textContent=(de?'OKTOBER':'OCTOBER')+' 2026';
+   card.querySelector('.story-image').alt=item.image.alt[lang];
+   card.querySelector('.photo-caption').textContent=item.image.caption[lang];
    card.querySelectorAll('.sources a').forEach((link,i)=>{link.textContent=item.sources[i].label+' ↗';});
   });
   document.querySelectorAll('#overview li a').forEach((link,index)=>{const number=link.querySelector('span');link.replaceChildren(number,document.createTextNode(data.items[index].title));});
