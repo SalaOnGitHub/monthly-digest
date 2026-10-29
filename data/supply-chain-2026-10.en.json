@@ -1,0 +1,316 @@
+{
+  "topic": "supply-chain",
+  "month": "2026-10",
+  "asOf": "2026-10-29",
+  "title": "Supply chain applications",
+  "intro": "Seven October announcements, one industry analysis and two standards explainers. Practical developments across planning, logistics, warehouse automation and supplier risk, researched through October 29, 2026. Announced capabilities are distinguished from deployments.",
+  "items": [
+    {
+      "title": "Planning agents move from detecting exceptions to coordinating responses",
+      "date": "2026-10-08",
+      "kind": "news",
+      "tag": "Planning · Announced",
+      "summary": "SAP expanded its Joule supply chain assistants with agents intended to connect planning, manufacturing and logistics decisions. The Planning Assistant is designed to sense, simulate and resolve exceptions in one workspace. General availability of the new capabilities is planned for Q4 2026; this announcement does not establish availability in every customer system.",
+      "whyItMatters": "For an SCM pilot, compare time to resolve an exception and service outcomes. Agree which actions require approval before allowing an agent to change orders or schedules.",
+      "sources": [
+        {
+          "label": "SAP · Joule supply chain announcement, October 8",
+          "url": "https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "A factory digital twin tests production plans before execution",
+      "date": "2026-10-19",
+      "kind": "news",
+      "tag": "Digital twins · Live testing",
+      "summary": "Siemens and NVIDIA showed applications tested in live production at Siemens' Erlangen electronics factory. An AI agent generates production scenarios, shows their KPI impact and validates proposals against a factory digital twin. Siemens also uses synthetic images to prepare visual inspection before physical prototypes exist. Reported savings are company claims from this setting, not guaranteed results elsewhere.",
+      "whyItMatters": "Scenario testing can connect capacity, material availability and delivery dates. A useful first scope is one production line with reliable operational data and a measurable baseline.",
+      "sources": [
+        {
+          "label": "Siemens · Erlangen factory announcement, October 19",
+          "url": "https://press.siemens.com/global/en/pressrelease/siemens-partners-nvidia-advance-ai-driven-autonomous-factories"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-03.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staeubli_Robots_line.jpg",
+        "credit": "Clemenspool / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Stäubli industrial robot arms in a manufacturing line",
+          "de": "Stäubli-Industrieroboter in einer Fertigungslinie"
+        },
+        "caption": {
+          "en": "Stäubli industrial robots, January 2023 · illustrative archival photograph, not the featured deployment. Resized and compressed.",
+          "de": "Stäubli-Industrieroboter, Jänner 2023 · Symbolbild aus dem Archiv, keine Aufnahme der beschriebenen Einführung. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Staeubli_Robots_line.jpg/960px-Staeubli_Robots_line.jpg"
+      }
+    },
+    {
+      "title": "Goods-to-person automation reaches a healthcare warehouse",
+      "date": "2026-10-21",
+      "kind": "news",
+      "tag": "Warehouse robotics · Deployed",
+      "summary": "DHL announced deployed automation at its pharmaceutical-grade facility in South-West Sydney. A Hai Robotics storage and retrieval system includes 12 robots, five goods-to-person picking stations and 14,000 inventory totes. The AU$9 million project combines warehouse upgrades with automation for existing healthcare customers; DHL describes improved capacity and responsiveness without publishing a quantified productivity comparison.",
+      "whyItMatters": "This is a concrete deployment to study. Evaluate picking accuracy, traceability, downtime and peak throughput alongside labour savings, especially when handling regulated or temperature-sensitive products.",
+      "sources": [
+        {
+          "label": "DHL · Sydney healthcare warehouse, October 21",
+          "url": "https://www.dhl.com/au-en/home/press/press-archive/2026/dhl-supply-chain-deploys-advanced-automation-at-life-sciences-and-healthcare-facility-in-new-south-wales.html"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "Warehouse software extends beyond the warehouse walls",
+      "date": "2026-10-08",
+      "kind": "news",
+      "tag": "WMS & OMS · Mixed availability",
+      "summary": "Hardis outlined a roadmap connecting warehouse, transportation and order processes. It says native integration between Hardis WMS and OMS is available, while a control-tower-style portal is in development. Two natural-language AI agents are planned for Q1 2027. The announcement therefore mixes current integration with future capabilities, rather than describing a fully autonomous warehouse already available.",
+      "whyItMatters": "Joining order allocation, stock and dispatch can reduce handover gaps. During evaluation, request demonstrations of released features and separate them from roadmap commitments and implementation dependencies.",
+      "sources": [
+        {
+          "label": "Hardis · Product roadmap, October 8 dateline",
+          "url": "https://www.hardis-supplychain.com/en/news/hardis-supply-chain-unveils-ai-and-product-roadmap-for-the-next-generation-of-supply-chain-orchestration/"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "Blue Yonder links AI decisions across planning and execution",
+      "date": "2026-10-15",
+      "kind": "news",
+      "tag": "Orchestration · Vendor update",
+      "summary": "At its Executive Summit, Blue Yonder said its Cognitive tools had shipped and introduced Autonomy Labs. Its approach centres on connected decisions across supply chain functions, with engineers working alongside customers on operational constraints. This vendor account describes a product direction and customer examples; it does not provide an independent comparison of implementation cost or performance.",
+      "whyItMatters": "A transport improvement can create warehouse or inventory problems elsewhere. Evaluate shared data, cross-functional KPIs and who resolves conflicting priorities before adding another decision-making application.",
+      "sources": [
+        {
+          "label": "Blue Yonder · Executive Summit report, October 15",
+          "url": "https://blueyonder.com/blog/2026/blue-yonders-executive-summit-a-new-geometry-for-the-supply-chain-is-here"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "Supplier risk signals move into purchasing workflows",
+      "date": "2026-10-12",
+      "kind": "news",
+      "tag": "Supplier risk · Planned Q4",
+      "summary": "SAP described its partnership with Moody's to embed supplier risk monitoring in SAP Ariba Supplier Lifecycle and Performance. Financial health, operational risk and regulatory information are intended to sit alongside supplier relationship data, with availability planned for Q4 2026. The aim is earlier intervention rather than relying only on periodic reviews; the update remains a vendor announcement.",
+      "whyItMatters": "Connect alerts to actual exposure: critical parts, inventory cover and replacement lead time. A risk score becomes useful when someone owns the escalation and mitigation decision.",
+      "sources": [
+        {
+          "label": "SAP · Spend management update, October 12",
+          "url": "https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+        "credit": "Martin Dörsch / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Container ship Ever Uberty approaching the port of Koper",
+          "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+        },
+        "caption": {
+          "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+          "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+      }
+    },
+    {
+      "title": "Control towers need a decision process behind the dashboard",
+      "date": "2026-10-16",
+      "kind": "analysis",
+      "tag": "Visibility · Industry analysis",
+      "summary": "In an October discussion published by Maersk, logistics leaders from Schneider Electric and PUMA emphasised turning visibility data into scenarios, recommendations and action. They also stressed starting with an operational problem instead of applying AI everywhere. This is an industry perspective on implementation, not the launch of a new control tower or proof of universal ROI.",
+      "whyItMatters": "For a delayed shipment, define the decision, owner and response window. Then compare rerouting, expediting and inventory alternatives using cost and customer impact, rather than dashboard activity.",
+      "sources": [
+        {
+          "label": "Maersk · From visibility to decisions, October 16",
+          "url": "https://www.maersk.com/insights/digitalisation/2026/10/16/how-ai-is-transforming-supply-chain-decision-making"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+        "credit": "Martin Dörsch / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Container ship Ever Uberty approaching the port of Koper",
+          "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+        },
+        "caption": {
+          "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+          "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+      }
+    },
+    {
+      "title": "Ethanol bunkering adds another option for ocean transport",
+      "date": "2026-10-19",
+      "kind": "news",
+      "tag": "Ocean logistics · Fuel transition",
+      "summary": "Maersk reported bunkering approximately 5,000 tonnes of certified bioethanol on Maersk Halifax in Singapore while cargo operations continued. The retrofitted dual-fuel vessel provides operational experience for its multi-fuel strategy. Maersk says emissions reductions depend on low-carbon sourcing and certification; using ethanol alone does not establish the lifecycle footprint of a shipment.",
+      "whyItMatters": "When comparing lower-emission freight offers, request the fuel pathway, lifecycle accounting and allocation method. Availability and price on a specific trade lane still matter to procurement.",
+      "sources": [
+        {
+          "label": "Maersk · Singapore ethanol bunkering, October 19",
+          "url": "https://www.maersk.com/news/articles/2026/10/19/maersk-completes-worlds-largest-ethanol-bunkering-singapore"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+        "credit": "Martin Dörsch / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Container ship Ever Uberty approaching the port of Koper",
+          "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+        },
+        "caption": {
+          "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+          "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+      }
+    },
+    {
+      "title": "EPCIS gives partners a shared language for traceability",
+      "date": null,
+      "kind": "background",
+      "tag": "Standards explained · EPCIS",
+      "summary": "Background: GS1's EPCIS standard describes events about what moved, when, where and in which business context. Version 2 supports sensor information such as temperature alongside those events; the official archive lists 2.0.1 as the latest release. This is an established interoperability standard, not an October launch or a ready-made tracking application.",
+      "whyItMatters": "For a cold-chain or recall pilot, agree identifiers, events and data responsibilities with partners first. A common format supports exchange; it does not ensure accurate input or full coverage.",
+      "sources": [
+        {
+          "label": "GS1 · EPCIS standard and version archive",
+          "url": "https://ref.gs1.org/standards/epcis/archive"
+        },
+        {
+          "label": "GS1 · EPCIS visibility and sensor data explained",
+          "url": "https://support.gs1.org/support/solutions/articles/43000755325-what-is-electronic-product-code-information-services-epcis-"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-04.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg",
+        "credit": "Rodrigo César / Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg#Licensing",
+        "alt": {
+          "en": "A handheld barcode scanner on a desk",
+          "de": "Ein Hand-Barcodescanner auf einem Tisch"
+        },
+        "caption": {
+          "en": "Handheld barcode scanner, February 2008 · illustrative archival photograph. Resized and compressed.",
+          "de": "Hand-Barcodescanner, Februar 2008 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barcode-hand-scanner.jpg/960px-Barcode-hand-scanner.jpg"
+      }
+    },
+    {
+      "title": "Prepare product data for 2D barcodes, not just new labels",
+      "date": null,
+      "kind": "background",
+      "tag": "Standards explained · 2D barcodes",
+      "summary": "Background: GS1's retail goal is for checkout systems to read supported 2D barcodes by the end of 2027. These codes can carry identifiers plus batch, expiry or serial data. GS1 Switzerland clarifies that EAN/UPC codes can continue alongside them: 2027 is not a universal legal replacement deadline for every product or country.",
+      "whyItMatters": "Start with a small product range and test printing, scanners and downstream systems. Richer codes help expiry and recall processes only when the underlying product and batch data are maintained.",
+      "sources": [
+        {
+          "label": "GS1 Switzerland · 2D codes and the 2027 goal",
+          "url": "https://www.gs1.ch/en/products-services/2d-codes"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-04.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg",
+        "credit": "Rodrigo César / Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg#Licensing",
+        "alt": {
+          "en": "A handheld barcode scanner on a desk",
+          "de": "Ein Hand-Barcodescanner auf einem Tisch"
+        },
+        "caption": {
+          "en": "Handheld barcode scanner, February 2008 · illustrative archival photograph. Resized and compressed.",
+          "de": "Hand-Barcodescanner, Februar 2008 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barcode-hand-scanner.jpg/960px-Barcode-hand-scanner.jpg"
+      }
+    }
+  ],
+  "editionNote": "7 October announcements + 1 industry analysis + 2 standards explainers · Researched through October 29, 2026.",
+  "previewNote": "New applications in planning, automation and logistics. Announcements, deployments and standards are clearly distinguished.",
+  "contextLabel": "IN PRACTICE"
+}

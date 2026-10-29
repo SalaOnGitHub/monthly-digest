@@ -31,6 +31,38 @@
         "de": "Die Erde aus Apollo 17, 1972"
       },
       "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg"
+    },
+    "finance": {
+      "src": "assets/finance-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide-Angle_New_York_Stock_Exchange_(51680640260).jpg",
+      "credit": "Billie Grace Ward / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "The New York Stock Exchange building photographed with a wide-angle lens",
+        "de": "Das Gebäude der New Yorker Börse, mit Weitwinkelobjektiv fotografiert"
+      },
+      "caption": {
+        "en": "New York Stock Exchange, August 2021 · illustrative archival photograph. Resized and compressed.",
+        "de": "New Yorker Börse, August 2021 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg/960px-Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg"
+    },
+    "supply-chain": {
+      "src": "assets/scm-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+      "credit": "Martin Dörsch / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "Container ship Ever Uberty approaching the port of Koper",
+        "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+      },
+      "caption": {
+        "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+        "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
     }
   },
   "stories": {
@@ -194,5 +226,329 @@
       },
       "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/DTE_Monroe_Power_Plant.jpg/960px-DTE_Monroe_Power_Plant.jpg"
     }
-  }
+  },
+  "finance": [
+    {
+      "src": "assets/finance-fed.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg",
+      "credit": "Britt Leckman / Board of Governors of the Federal Reserve System",
+      "license": "Public domain (U.S. federal government)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg#Licensing",
+      "alt": {
+        "en": "The main entrance of the Federal Reserve Eccles Building in Washington, D.C.",
+        "de": "Haupteingang des Eccles Building der Federal Reserve in Washington, D.C."
+      },
+      "caption": {
+        "en": "Federal Reserve Eccles Building, March 2011 · illustrative archival photograph. Resized and compressed.",
+        "de": "Eccles Building der Federal Reserve, März 2011 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/960px-Eccles_Building_%2826088200676%29.jpg"
+    },
+    {
+      "src": "assets/world-03.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg",
+      "credit": "International Monetary Fund / Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg#Licensing",
+      "alt": {
+        "en": "Headquarters of the International Monetary Fund in Washington, D.C.",
+        "de": "Hauptsitz des Internationalen Währungsfonds in Washington, D.C."
+      },
+      "caption": {
+        "en": "The IMF headquarters in Washington, D.C. (illustrative photograph).",
+        "de": "Der IWF-Hauptsitz in Washington, D.C. (Symbolbild)."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/IMF_building_HR.jpg/960px-IMF_building_HR.jpg"
+    },
+    {
+      "src": "assets/cover-ai.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Computer_Motherboard_Closeup.jpg",
+      "credit": "Lenharth Systems / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "Close-up photograph of a computer motherboard and electronic components",
+        "de": "Nahaufnahme einer Computer-Hauptplatine mit elektronischen Bauteilen"
+      },
+      "caption": {
+        "en": "Computing hardware · illustrative photograph",
+        "de": "Computerhardware · Symbolbild"
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Computer_Motherboard_Closeup.jpg/960px-Computer_Motherboard_Closeup.jpg"
+    },
+    {
+      "src": "assets/cover-ai.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Computer_Motherboard_Closeup.jpg",
+      "credit": "Lenharth Systems / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "Close-up photograph of a computer motherboard and electronic components",
+        "de": "Nahaufnahme einer Computer-Hauptplatine mit elektronischen Bauteilen"
+      },
+      "caption": {
+        "en": "Computing hardware · illustrative photograph",
+        "de": "Computerhardware · Symbolbild"
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Computer_Motherboard_Closeup.jpg/960px-Computer_Motherboard_Closeup.jpg"
+    },
+    {
+      "src": "assets/finance-03.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange.jpg",
+      "credit": "Pythagomath / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": {
+        "en": "The trading hall and price board inside the Frankfurt Stock Exchange",
+        "de": "Handelssaal und Kurstafel der Frankfurter Wertpapierbörse"
+      },
+      "caption": {
+        "en": "Frankfurt Stock Exchange, December 2014 · illustrative archival photograph; displayed prices are historical. Resized and compressed.",
+        "de": "Frankfurter Börse, Dezember 2014 · Symbolbild aus dem Archiv; angezeigte Kurse sind historisch. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Frankfurt_Stock_Exchange.jpg/960px-Frankfurt_Stock_Exchange.jpg"
+    },
+    {
+      "src": "assets/world-10.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DTE_Monroe_Power_Plant.jpg",
+      "credit": "JGone41 / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "DTE Monroe power plant in Monroe, Michigan",
+        "de": "Kraftwerk DTE Monroe in Monroe, Michigan"
+      },
+      "caption": {
+        "en": "Illustrative photo: DTE Monroe power plant in Michigan, photographed in January 2026.",
+        "de": "Symbolbild: Kraftwerk DTE Monroe in Michigan, aufgenommen im Jänner 2026."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/DTE_Monroe_Power_Plant.jpg/960px-DTE_Monroe_Power_Plant.jpg"
+    },
+    {
+      "src": "assets/finance-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide-Angle_New_York_Stock_Exchange_(51680640260).jpg",
+      "credit": "Billie Grace Ward / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "The New York Stock Exchange building photographed with a wide-angle lens",
+        "de": "Das Gebäude der New Yorker Börse, mit Weitwinkelobjektiv fotografiert"
+      },
+      "caption": {
+        "en": "New York Stock Exchange, August 2021 · illustrative archival photograph. Resized and compressed.",
+        "de": "New Yorker Börse, August 2021 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg/960px-Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg"
+    },
+    {
+      "src": "assets/finance-04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minhas_Economias_,_My_Savings_-_Flickr_-_Jeff_Belmonte.jpg",
+      "credit": "Jeff Belmonte / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": {
+        "en": "Stacks of coins photographed at close range",
+        "de": "Nahaufnahme mehrerer Münzstapel"
+      },
+      "caption": {
+        "en": "Stacks of coins, October 2004 · illustrative archival photograph. Resized and compressed.",
+        "de": "Münzstapel, Oktober 2004 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Minhas_Economias_%2C_My_Savings_-_Flickr_-_Jeff_Belmonte.jpg"
+    },
+    {
+      "src": "assets/finance-02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_(EZB),_Frankfurt,_Germany.jpg",
+      "credit": "Hartmut Schmidt Heidelberg / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": {
+        "en": "The European Central Bank headquarters and the Flößerbrücke in Frankfurt",
+        "de": "Der Sitz der Europäischen Zentralbank und die Flößerbrücke in Frankfurt"
+      },
+      "caption": {
+        "en": "ECB headquarters in Frankfurt, April 2019 · illustrative archival photograph. Resized and compressed.",
+        "de": "EZB-Sitz in Frankfurt, April 2019 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/European_Central_Bank_%28EZB%29%2C_Frankfurt%2C_Germany.jpg/960px-European_Central_Bank_%28EZB%29%2C_Frankfurt%2C_Germany.jpg"
+    },
+    {
+      "src": "assets/finance-03.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange.jpg",
+      "credit": "Pythagomath / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": {
+        "en": "The trading hall and price board inside the Frankfurt Stock Exchange",
+        "de": "Handelssaal und Kurstafel der Frankfurter Wertpapierbörse"
+      },
+      "caption": {
+        "en": "Frankfurt Stock Exchange, December 2014 · illustrative archival photograph; displayed prices are historical. Resized and compressed.",
+        "de": "Frankfurter Börse, Dezember 2014 · Symbolbild aus dem Archiv; angezeigte Kurse sind historisch. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Frankfurt_Stock_Exchange.jpg/960px-Frankfurt_Stock_Exchange.jpg"
+    }
+  ],
+  "supply-chain": [
+    {
+      "src": "assets/scm-02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+      "credit": "Jacinta Quesada / FEMA",
+      "license": "Public domain (U.S. federal government)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+      "alt": {
+        "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+        "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+      },
+      "caption": {
+        "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+        "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+    },
+    {
+      "src": "assets/scm-03.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staeubli_Robots_line.jpg",
+      "credit": "Clemenspool / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "Stäubli industrial robot arms in a manufacturing line",
+        "de": "Stäubli-Industrieroboter in einer Fertigungslinie"
+      },
+      "caption": {
+        "en": "Stäubli industrial robots, January 2023 · illustrative archival photograph, not the featured deployment. Resized and compressed.",
+        "de": "Stäubli-Industrieroboter, Jänner 2023 · Symbolbild aus dem Archiv, keine Aufnahme der beschriebenen Einführung. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Staeubli_Robots_line.jpg/960px-Staeubli_Robots_line.jpg"
+    },
+    {
+      "src": "assets/scm-02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+      "credit": "Jacinta Quesada / FEMA",
+      "license": "Public domain (U.S. federal government)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+      "alt": {
+        "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+        "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+      },
+      "caption": {
+        "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+        "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+    },
+    {
+      "src": "assets/scm-02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+      "credit": "Jacinta Quesada / FEMA",
+      "license": "Public domain (U.S. federal government)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+      "alt": {
+        "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+        "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+      },
+      "caption": {
+        "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+        "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+    },
+    {
+      "src": "assets/scm-02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+      "credit": "Jacinta Quesada / FEMA",
+      "license": "Public domain (U.S. federal government)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+      "alt": {
+        "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+        "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+      },
+      "caption": {
+        "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+        "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+    },
+    {
+      "src": "assets/scm-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+      "credit": "Martin Dörsch / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "Container ship Ever Uberty approaching the port of Koper",
+        "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+      },
+      "caption": {
+        "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+        "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+    },
+    {
+      "src": "assets/scm-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+      "credit": "Martin Dörsch / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "Container ship Ever Uberty approaching the port of Koper",
+        "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+      },
+      "caption": {
+        "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+        "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+    },
+    {
+      "src": "assets/scm-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+      "credit": "Martin Dörsch / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": {
+        "en": "Container ship Ever Uberty approaching the port of Koper",
+        "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+      },
+      "caption": {
+        "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+        "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+    },
+    {
+      "src": "assets/scm-04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg",
+      "credit": "Rodrigo César / Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg#Licensing",
+      "alt": {
+        "en": "A handheld barcode scanner on a desk",
+        "de": "Ein Hand-Barcodescanner auf einem Tisch"
+      },
+      "caption": {
+        "en": "Handheld barcode scanner, February 2008 · illustrative archival photograph. Resized and compressed.",
+        "de": "Hand-Barcodescanner, Februar 2008 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barcode-hand-scanner.jpg/960px-Barcode-hand-scanner.jpg"
+    },
+    {
+      "src": "assets/scm-04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg",
+      "credit": "Rodrigo César / Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg#Licensing",
+      "alt": {
+        "en": "A handheld barcode scanner on a desk",
+        "de": "Ein Hand-Barcodescanner auf einem Tisch"
+      },
+      "caption": {
+        "en": "Handheld barcode scanner, February 2008 · illustrative archival photograph. Resized and compressed.",
+        "de": "Hand-Barcodescanner, Februar 2008 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+      },
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barcode-hand-scanner.jpg/960px-Barcode-hand-scanner.jpg"
+    }
+  ]
 }

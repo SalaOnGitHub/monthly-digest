@@ -1,0 +1,316 @@
+{
+  "topic": "supply-chain",
+  "month": "2026-10",
+  "asOf": "2026-10-29",
+  "title": "Supply-Chain-Anwendungen",
+  "intro": "Sieben Oktober-Ankündigungen, eine Branchenanalyse und zwei Erklärstücke zu Standards. Praktische Entwicklungen in Planung, Logistik, Lagerautomatisierung und Lieferantenrisiken; recherchiert bis 29. Oktober 2026. Ankündigungen und bereits eingesetzte Anwendungen sind gekennzeichnet.",
+  "items": [
+    {
+      "title": "Planungsagenten sollen Störungen erkennen und Reaktionen koordinieren",
+      "date": "2026-10-08",
+      "kind": "news",
+      "tag": "Planung · Angekündigt",
+      "summary": "SAP erweitert seine Joule-Assistenten um Agenten, die Entscheidungen in Planung, Produktion und Logistik verbinden sollen. Der Planning Assistant soll Ausnahmen in einer Arbeitsumgebung erkennen, simulieren und bearbeiten. Die allgemeine Verfügbarkeit der neuen Funktionen ist für das vierte Quartal 2026 geplant. Die Ankündigung belegt noch keine Verfügbarkeit in jedem Kundensystem.",
+      "whyItMatters": "Für einen SCM-Piloten bieten sich Bearbeitungszeit je Störung und Serviceergebnisse als Messgrößen an. Vor Änderungen an Aufträgen oder Plänen muss klar sein, welche Aktionen eine Freigabe benötigen.",
+      "sources": [
+        {
+          "label": "SAP · Joule-Supply-Chain-Ankündigung, 8. Oktober",
+          "url": "https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "Ein digitaler Fabrikzwilling prüft Produktionspläne vor der Umsetzung",
+      "date": "2026-10-19",
+      "kind": "news",
+      "tag": "Digitale Zwillinge · Praxistest",
+      "summary": "Siemens und NVIDIA zeigen Anwendungen, die im laufenden Betrieb des Erlanger Elektronikwerks getestet werden. Ein KI-Agent erstellt Produktionsszenarien, zeigt deren KPI-Auswirkungen und prüft Vorschläge am digitalen Fabrikzwilling. Synthetische Bilder bereiten zudem die Sichtprüfung vor physischen Prototypen vor. Genannte Einsparungen sind Unternehmensangaben aus diesem Umfeld und keine Garantie für andere Standorte.",
+      "whyItMatters": "Szenarien verbinden Kapazität, Materialverfügbarkeit und Liefertermine. Als erster Anwendungsfall eignet sich eine Produktionslinie mit verlässlichen Betriebsdaten und einer messbaren Ausgangsbasis.",
+      "sources": [
+        {
+          "label": "Siemens · Erlanger Fabrik, 19. Oktober",
+          "url": "https://press.siemens.com/global/en/pressrelease/siemens-partners-nvidia-advance-ai-driven-autonomous-factories"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-03.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staeubli_Robots_line.jpg",
+        "credit": "Clemenspool / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Stäubli industrial robot arms in a manufacturing line",
+          "de": "Stäubli-Industrieroboter in einer Fertigungslinie"
+        },
+        "caption": {
+          "en": "Stäubli industrial robots, January 2023 · illustrative archival photograph, not the featured deployment. Resized and compressed.",
+          "de": "Stäubli-Industrieroboter, Jänner 2023 · Symbolbild aus dem Archiv, keine Aufnahme der beschriebenen Einführung. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Staeubli_Robots_line.jpg/960px-Staeubli_Robots_line.jpg"
+      }
+    },
+    {
+      "title": "Ware-zur-Person-Automatisierung im Healthcare-Lager",
+      "date": "2026-10-21",
+      "kind": "news",
+      "tag": "Lagerrobotik · Im Einsatz",
+      "summary": "DHL meldet eingesetzte Automatisierung in seinem pharmazeutischen Logistikzentrum im Südwesten Sydneys. Das Lager- und Entnahmesystem von Hai Robotics umfasst zwölf Roboter, fünf Ware-zur-Person-Kommissionierstationen und 14.000 Bestandsbehälter. Das Projekt für neun Millionen australische Dollar verbindet Lagerumbau und Automatisierung für bestehende Healthcare-Kunden. DHL beschreibt zusätzliche Kapazität, veröffentlicht aber keinen quantifizierten Produktivitätsvergleich.",
+      "whyItMatters": "Dieser konkrete Einsatz bietet Ansatzpunkte für Vergleiche. Neben Personaleinsparungen zählen Kommissioniergenauigkeit, Rückverfolgbarkeit, Ausfallzeiten und Spitzendurchsatz – besonders bei regulierten oder temperaturempfindlichen Produkten.",
+      "sources": [
+        {
+          "label": "DHL · Healthcare-Lager Sydney, 21. Oktober",
+          "url": "https://www.dhl.com/au-en/home/press/press-archive/2026/dhl-supply-chain-deploys-advanced-automation-at-life-sciences-and-healthcare-facility-in-new-south-wales.html"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "Lagersoftware verbindet sich stärker mit Transport und Aufträgen",
+      "date": "2026-10-08",
+      "kind": "news",
+      "tag": "WMS & OMS · Teilweise verfügbar",
+      "summary": "Hardis beschreibt eine Roadmap für verknüpfte Lager-, Transport- und Auftragsprozesse. Die native Integration von Hardis WMS und OMS ist laut Unternehmen verfügbar; ein Portal nach Control-Tower-Prinzip wird entwickelt. Zwei KI-Agenten für natürlichsprachige Abfragen sind für das erste Quartal 2027 geplant. Die Meldung kombiniert somit bestehende Integration mit künftigen Funktionen.",
+      "whyItMatters": "Verbundene Auftragsverteilung, Bestände und Versandprozesse können Übergabelücken reduzieren. Bei der Bewertung sollten bereits veröffentlichte Funktionen vorgeführt und von Roadmap-Zusagen sowie Integrationsvoraussetzungen getrennt betrachtet werden.",
+      "sources": [
+        {
+          "label": "Hardis · Produkt-Roadmap, Datumszeile 8. Oktober",
+          "url": "https://www.hardis-supplychain.com/en/news/hardis-supply-chain-unveils-ai-and-product-roadmap-for-the-next-generation-of-supply-chain-orchestration/"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "Blue Yonder verknüpft KI-Entscheidungen zwischen Planung und Ausführung",
+      "date": "2026-10-15",
+      "kind": "news",
+      "tag": "Orchestrierung · Anbieter-Update",
+      "summary": "Blue Yonder erklärt beim Executive Summit, seine Cognitive-Werkzeuge seien ausgeliefert, und stellt Autonomy Labs vor. Der Ansatz verbindet Entscheidungen über Supply-Chain-Funktionen hinweg; Ingenieure sollen gemeinsam mit Kunden konkrete operative Rahmenbedingungen bearbeiten. Der Anbieterbericht beschreibt Produktausrichtung und Kundenbeispiele, liefert jedoch keinen unabhängigen Vergleich von Einführungskosten oder Leistung.",
+      "whyItMatters": "Eine Transportverbesserung kann an anderer Stelle Lager- oder Bestandsprobleme erzeugen. Vor einer weiteren Entscheidungsanwendung sollten gemeinsame Daten, übergreifende KPIs und Verantwortlichkeiten bei Zielkonflikten feststehen.",
+      "sources": [
+        {
+          "label": "Blue Yonder · Executive-Summit-Bericht, 15. Oktober",
+          "url": "https://blueyonder.com/blog/2026/blue-yonders-executive-summit-a-new-geometry-for-the-supply-chain-is-here"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg",
+        "credit": "Jacinta Quesada / FEMA",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pallets_for_Gustav.jpg#Licensing",
+        "alt": {
+          "en": "Pallets of supplies lined up inside a warehouse in Louisiana",
+          "de": "Paletten mit Versorgungsgütern in einem Lager in Louisiana"
+        },
+        "caption": {
+          "en": "FEMA warehouse in Louisiana, August 2008 · illustrative archival photograph, not a current project site. Resized and compressed.",
+          "de": "FEMA-Lager in Louisiana, August 2008 · Symbolbild aus dem Archiv, kein aktueller Projektstandort. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pallets_for_Gustav.jpg/960px-Pallets_for_Gustav.jpg"
+      }
+    },
+    {
+      "title": "Lieferantenrisiken rücken direkt in den Einkaufsprozess",
+      "date": "2026-10-12",
+      "kind": "news",
+      "tag": "Lieferantenrisiko · Für Q4 geplant",
+      "summary": "SAP beschreibt die Partnerschaft mit Moody's zur Integration von Risikomonitoring in SAP Ariba Supplier Lifecycle and Performance. Finanzlage, operative Risiken und regulatorische Informationen sollen neben den Lieferantenbeziehungsdaten verfügbar sein. Die Verfügbarkeit ist für das vierte Quartal 2026 geplant. Ziel sind frühere Eingriffe anstelle ausschließlich periodischer Prüfungen; es handelt sich um eine Anbieterankündigung.",
+      "whyItMatters": "Warnungen sollten mit konkreter Exposition verknüpft werden: kritische Teile, Bestandsreichweite und Ersatzbeschaffungszeit. Ein Risikoscore hilft erst, wenn Eskalation und Gegenmaßnahmen einer verantwortlichen Person zugeordnet sind.",
+      "sources": [
+        {
+          "label": "SAP · Spend-Management-Update, 12. Oktober",
+          "url": "https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+        "credit": "Martin Dörsch / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Container ship Ever Uberty approaching the port of Koper",
+          "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+        },
+        "caption": {
+          "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+          "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+      }
+    },
+    {
+      "title": "Hinter dem Control-Tower-Dashboard braucht es einen Entscheidungsprozess",
+      "date": "2026-10-16",
+      "kind": "analysis",
+      "tag": "Transparenz · Branchenanalyse",
+      "summary": "In einer von Maersk veröffentlichten Diskussion betonen Logistikverantwortliche von Schneider Electric und PUMA den Schritt von Sichtbarkeitsdaten zu Szenarien, Empfehlungen und Maßnahmen. Ausgangspunkt soll ein operatives Problem sein, nicht der pauschale Einsatz von KI. Der Beitrag ist eine Branchenperspektive zur Umsetzung – keine Produkteinführung und kein Nachweis allgemeingültiger Renditen.",
+      "whyItMatters": "Bei einer verspäteten Sendung müssen Entscheidung, Zuständigkeit und Reaktionsfrist feststehen. Dann lassen sich Umleitung, Expressversand und Bestandsalternativen nach Kosten und Kundenauswirkungen statt nach Dashboard-Aktivität vergleichen.",
+      "sources": [
+        {
+          "label": "Maersk · Von Transparenz zu Entscheidungen, 16. Oktober",
+          "url": "https://www.maersk.com/insights/digitalisation/2026/10/16/how-ai-is-transforming-supply-chain-decision-making"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+        "credit": "Martin Dörsch / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Container ship Ever Uberty approaching the port of Koper",
+          "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+        },
+        "caption": {
+          "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+          "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+      }
+    },
+    {
+      "title": "Ethanol erweitert die Kraftstoffoptionen im Seetransport",
+      "date": "2026-10-19",
+      "kind": "news",
+      "tag": "Seelogistik · Kraftstoffwende",
+      "summary": "Maersk meldet die Betankung der Maersk Halifax mit rund 5.000 Tonnen zertifiziertem Bioethanol in Singapur bei gleichzeitigem Ladungsumschlag. Das umgerüstete Dual-Fuel-Schiff liefert Betriebserfahrung für die Mehrkraftstoffstrategie. Laut Maersk hängen Emissionsminderungen von klimafreundlicher Beschaffung und Zertifizierung ab. Ethanol allein belegt daher noch nicht den Lebenszyklus-Fußabdruck einer Sendung.",
+      "whyItMatters": "Bei emissionsärmeren Frachtangeboten zählen Kraftstoffherkunft, Lebenszyklusbilanz und Zuordnungsmethode. Für den Einkauf bleiben außerdem die Verfügbarkeit auf der konkreten Route und der Preis entscheidend.",
+      "sources": [
+        {
+          "label": "Maersk · Ethanol-Betankung Singapur, 19. Oktober",
+          "url": "https://www.maersk.com/news/articles/2026/10/19/maersk-completes-worlds-largest-ethanol-bunkering-singapore"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_ship_in_Koper_2013.jpg",
+        "credit": "Martin Dörsch / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Container ship Ever Uberty approaching the port of Koper",
+          "de": "Containerschiff Ever Uberty vor dem Hafen von Koper"
+        },
+        "caption": {
+          "en": "Container ship in Koper, May 2013 · illustrative archival photograph. Resized and compressed.",
+          "de": "Containerschiff vor Koper, Mai 2013 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Container_ship_in_Koper_2013.jpg/960px-Container_ship_in_Koper_2013.jpg"
+      }
+    },
+    {
+      "title": "EPCIS schafft eine gemeinsame Sprache für Rückverfolgbarkeit",
+      "date": null,
+      "kind": "background",
+      "tag": "Standard erklärt · EPCIS",
+      "summary": "Hintergrund: Der GS1-Standard EPCIS beschreibt Ereignisse dazu, was sich wann, wo und in welchem Geschäftskontext bewegt hat. Version 2 unterstützt dabei auch Sensordaten wie Temperatur; das offizielle Archiv führt 2.0.1 als neueste Ausgabe. Es handelt sich um einen etablierten Austauschstandard, nicht um eine Oktober-Neuheit oder fertige Tracking-Anwendung.",
+      "whyItMatters": "Für Kühlketten- oder Rückrufpiloten sollten Partner zuerst Kennungen, Ereignisse und Datenverantwortung vereinbaren. Ein gemeinsames Format ermöglicht Austausch, garantiert aber weder korrekte Eingaben noch vollständige Abdeckung.",
+      "sources": [
+        {
+          "label": "GS1 · EPCIS-Standard und Versionsarchiv",
+          "url": "https://ref.gs1.org/standards/epcis/archive"
+        },
+        {
+          "label": "GS1 · EPCIS-Ereignisse und Sensordaten erklärt",
+          "url": "https://support.gs1.org/support/solutions/articles/43000755325-what-is-electronic-product-code-information-services-epcis-"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-04.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg",
+        "credit": "Rodrigo César / Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg#Licensing",
+        "alt": {
+          "en": "A handheld barcode scanner on a desk",
+          "de": "Ein Hand-Barcodescanner auf einem Tisch"
+        },
+        "caption": {
+          "en": "Handheld barcode scanner, February 2008 · illustrative archival photograph. Resized and compressed.",
+          "de": "Hand-Barcodescanner, Februar 2008 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barcode-hand-scanner.jpg/960px-Barcode-hand-scanner.jpg"
+      }
+    },
+    {
+      "title": "Für 2D-Barcodes braucht es Produktdaten, nicht nur neue Etiketten",
+      "date": null,
+      "kind": "background",
+      "tag": "Standard erklärt · 2D-Barcodes",
+      "summary": "Hintergrund: GS1 verfolgt das Ziel, unterstützte 2D-Barcodes bis Ende 2027 an Einzelhandelskassen lesbar zu machen. Die Codes können neben Kennungen etwa Chargen-, Ablauf- oder Seriennummern tragen. GS1 Schweiz stellt klar: EAN/UPC-Codes können daneben weiterbestehen. 2027 ist somit keine weltweite gesetzliche Austauschfrist für alle Produkte und Länder.",
+      "whyItMatters": "Mit einem kleinen Sortiment lassen sich Druck, Scanner und Folgesysteme testen. Datenreichere Codes unterstützen Ablauf- und Rückrufprozesse nur, wenn die zugrunde liegenden Produkt- und Chargendaten gepflegt sind.",
+      "sources": [
+        {
+          "label": "GS1 Schweiz · 2D-Codes und das Ziel für 2027",
+          "url": "https://www.gs1.ch/en/products-services/2d-codes"
+        }
+      ],
+      "image": {
+        "src": "assets/scm-04.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg",
+        "credit": "Rodrigo César / Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Barcode-hand-scanner.jpg#Licensing",
+        "alt": {
+          "en": "A handheld barcode scanner on a desk",
+          "de": "Ein Hand-Barcodescanner auf einem Tisch"
+        },
+        "caption": {
+          "en": "Handheld barcode scanner, February 2008 · illustrative archival photograph. Resized and compressed.",
+          "de": "Hand-Barcodescanner, Februar 2008 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barcode-hand-scanner.jpg/960px-Barcode-hand-scanner.jpg"
+      }
+    }
+  ],
+  "editionNote": "7 Oktober-Ankündigungen + 1 Branchenanalyse + 2 Erklärstücke zu Standards · Recherchiert bis 29. Oktober 2026.",
+  "previewNote": "Neue Anwendungen für Planung, Automatisierung und Logistik. Ankündigungen, Einsätze und Standards sind klar gekennzeichnet.",
+  "contextLabel": "FÜR DIE PRAXIS"
+}

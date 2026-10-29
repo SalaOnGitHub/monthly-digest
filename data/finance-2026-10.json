@@ -1,0 +1,332 @@
+{
+  "topic": "finance",
+  "month": "2026-10",
+  "asOf": "2026-10-29",
+  "title": "Finanzen",
+  "intro": "Sechs ausgewählte Oktober-Entwicklungen für Aktien- und ETF-Interessierte, ergänzt um vier klar gekennzeichnete Beiträge zum Anlegerwissen. Marktumfeld, Unternehmenszahlen und Fondsmechanik – mit Primärquellen zum Weiterlesen.",
+  "editionNote": "6 Oktober-Entwicklungen + 4 Beiträge zum Anlegerwissen · Recherchiert bis 29. Oktober 2026.",
+  "previewNote": "Ausgewählte Oktober-Entwicklungen für Aktien- und ETF-Interessierte. Vier Beiträge zum Anlegerwissen ergänzen die Ausgabe.",
+  "contextLabel": "FÜR DEIN VERSTÄNDNIS",
+  "items": [
+    {
+      "title": "Die Fed hält die Zinsen bei weiter erhöhter Inflation",
+      "date": "2026-10-28",
+      "kind": "news",
+      "tag": "Zinsen",
+      "summary": "Die US-Notenbank beließ ihre Leitzinsspanne am 28. Oktober bei 3,75–4,00 %. Sie beschrieb eine kräftige Konjunktur und robuste Ausgaben, zugleich blieb die Inflation erhöht. Die Abstimmung endete 10 zu 2; beide Gegenstimmen bevorzugten eine Erhöhung um einen Viertelprozentpunkt. Künftige Schritte hängen laut Mitteilung von weiteren Informationen ab; ein bestimmter Zinspfad wird nicht zugesagt.",
+      "whyItMatters": "Zinsen beeinflussen Finanzierungskosten, Anleiherenditen und die Abzinsung bei Aktienbewertungen. Auch eine Zinspause lässt sich erst zusammen mit dem Inflationsausblick einordnen.",
+      "sources": [
+        {
+          "label": "Federal Reserve · FOMC-Mitteilung, 28. Oktober",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        }
+      ],
+      "image": {
+        "src": "assets/finance-fed.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg",
+        "credit": "Britt Leckman / Board of Governors of the Federal Reserve System",
+        "license": "Public domain (U.S. federal government)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg#Licensing",
+        "alt": {
+          "en": "The main entrance of the Federal Reserve Eccles Building in Washington, D.C.",
+          "de": "Haupteingang des Eccles Building der Federal Reserve in Washington, D.C."
+        },
+        "caption": {
+          "en": "Federal Reserve Eccles Building, March 2011 · illustrative archival photograph. Resized and compressed.",
+          "de": "Eccles Building der Federal Reserve, März 2011 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/960px-Eccles_Building_%2826088200676%29.jpg"
+      }
+    },
+    {
+      "title": "Der IWF sieht große Unterschiede hinter dem Weltwachstum",
+      "date": "2026-10-13",
+      "kind": "news",
+      "tag": "Weltwirtschaft",
+      "summary": "Der IWF prognostiziert im Oktober-Ausblick 3,1 % Weltwachstum für 2026 und 3,4 % für 2027, bei 4,7 % beziehungsweise 4,1 % Inflation. Er betont Unterschiede zwischen Profiteuren der Technologieinvestitionen und belasteten Energieimporteuren. Konflikte, Handelsstreitigkeiten, Verschuldung und eine Neubewertung der KI-Erwartungen bleiben Abwärtsrisiken. Diese Zahlen sind Prognosen und keine bereits eingetretenen Ergebnisse.",
+      "whyItMatters": "Für Aktien- und ETF-Anleger können globale Durchschnittswerte unterschiedliche Länder- und Branchenrisiken verdecken. Der Bericht bietet Szenarien zur Einordnung, keine Prognose von Börsenrenditen.",
+      "sources": [
+        {
+          "label": "IWF · World Economic Outlook, Oktober 2026",
+          "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026"
+        }
+      ],
+      "image": {
+        "src": "assets/world-03.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg",
+        "credit": "International Monetary Fund / Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg#Licensing",
+        "alt": {
+          "en": "Headquarters of the International Monetary Fund in Washington, D.C.",
+          "de": "Hauptsitz des Internationalen Währungsfonds in Washington, D.C."
+        },
+        "caption": {
+          "en": "The IMF headquarters in Washington, D.C. (illustrative photograph).",
+          "de": "Der IWF-Hauptsitz in Washington, D.C. (Symbolbild)."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/IMF_building_HR.jpg/960px-IMF_building_HR.jpg"
+      }
+    },
+    {
+      "title": "Microsoft zeigt, warum die Gewinnberechnung wichtig ist",
+      "date": "2026-10-28",
+      "kind": "news",
+      "tag": "Unternehmenszahlen",
+      "summary": "Microsoft meldete für das Quartal bis 30. September 92,3 Milliarden US-Dollar Umsatz, 19 % mehr als im Vorjahr. Der Gewinn je Aktie stieg nach GAAP um 32 %, bereinigt um Effekte der OpenAI-Beteiligung dagegen um 18 %. Microsoft Cloud legte beim Umsatz um 30 % zu. Die Veröffentlichung vom 28. Oktober zeigt, wie stark die gewählte Vergleichsgröße die Schlagzeile prägt.",
+      "whyItMatters": "Neben der Schlagzeile zählt die Überleitung zwischen den Kennzahlen. Unternehmenszahlen helfen beim Verständnis des Geschäfts; ob eine Aktie günstig bewertet ist, beantworten sie allein nicht.",
+      "sources": [
+        {
+          "label": "Microsoft · Ergebnisse FY2027 Q1",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+        }
+      ],
+      "image": {
+        "src": "assets/cover-ai.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Computer_Motherboard_Closeup.jpg",
+        "credit": "Lenharth Systems / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Close-up photograph of a computer motherboard and electronic components",
+          "de": "Nahaufnahme einer Computer-Hauptplatine mit elektronischen Bauteilen"
+        },
+        "caption": {
+          "en": "Computing hardware · illustrative photograph",
+          "de": "Computerhardware · Symbolbild"
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Computer_Motherboard_Closeup.jpg/960px-Computer_Motherboard_Closeup.jpg"
+      }
+    },
+    {
+      "title": "TSMC meldet starke Chipnachfrage und höheren Umsatzausblick",
+      "date": "2026-10-15",
+      "kind": "news",
+      "tag": "Unternehmenszahlen",
+      "summary": "TSMC erzielte im dritten Quartal 46,72 Milliarden US-Dollar Umsatz, 41,2 % mehr als ein Jahr zuvor, und 66,4 % Bruttomarge. Die Veröffentlichung vom 15. Oktober verwies auf die Nachfrage nach modernsten Chiptechnologien. Für das vierte Quartal erwartet das Management 52,3–54,3 Milliarden US-Dollar Umsatz. Dieser Ausblick beschreibt Erwartungen und ist von den abgeschlossenen Quartalsergebnissen zu trennen.",
+      "whyItMatters": "Die Chipnachfrage ist für Technologieaktien und ETFs mit Halbleiterunternehmen relevant. Umsatzwachstum, Margen und der bereits für erwartetes Wachstum bezahlte Preis sind getrennt zu betrachten.",
+      "sources": [
+        {
+          "label": "TSMC · Ergebnisse Q3 und Ausblick Q4 2026",
+          "url": "https://investor.tsmc.com/english/quarterly-results/2026/q3"
+        },
+        {
+          "label": "TSMC · Quartalsmitteilung (PDF)",
+          "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/526b65af7305df2dde6b9ece6812b1fdf1e49f9b/3Q26%20EarningsRelease.pdf"
+        }
+      ],
+      "image": {
+        "src": "assets/cover-ai.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Computer_Motherboard_Closeup.jpg",
+        "credit": "Lenharth Systems / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "Close-up photograph of a computer motherboard and electronic components",
+          "de": "Nahaufnahme einer Computer-Hauptplatine mit elektronischen Bauteilen"
+        },
+        "caption": {
+          "en": "Computing hardware · illustrative photograph",
+          "de": "Computerhardware · Symbolbild"
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Computer_Motherboard_Closeup.jpg/960px-Computer_Motherboard_Closeup.jpg"
+      }
+    },
+    {
+      "title": "Neue Xetra-ETFs: günstiger Weltindex und aktive KI-Analyse",
+      "date": "2026-10-14",
+      "kind": "news",
+      "tag": "ETF-Entwicklungen",
+      "summary": "Die Deutsche Börse meldete am 14. Oktober eine Anteilsklasse des Amundi Core MSCI World UCITS ETF mit ausgewiesenen Produktkosten von 0,06 % jährlich. Dieselbe Mitteilung enthält Pictets aktiv verwalteten AI Enhanced Emerging Equity UCITS ETF mit 0,30 %. Dessen KI-Werkzeuge unterstützen die Anlageanalyse; der Fonds bleibt eine Aktienanlage mit Marktrisiko.",
+      "whyItMatters": "ETF bezeichnet eine Fondshülle, keine einheitliche Anlagestrategie. Marktumfang, Managementansatz und Gesamtkosten entscheiden mit darüber, ob zwei ETFs überhaupt vergleichbar sind.",
+      "sources": [
+        {
+          "label": "Deutsche Börse · ETF- und ETP-Neuzugänge, 14. Oktober",
+          "url": "https://www.cashmarket.deutsche-boerse.com/cash-en/Stay-Informed/newsroom/press-releases/New-ETF-and-ETP-Listings-on-October-14-2026-on-Deutsche-B-rse-5630000"
+        }
+      ],
+      "image": {
+        "src": "assets/finance-03.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange.jpg",
+        "credit": "Pythagomath / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": {
+          "en": "The trading hall and price board inside the Frankfurt Stock Exchange",
+          "de": "Handelssaal und Kurstafel der Frankfurter Wertpapierbörse"
+        },
+        "caption": {
+          "en": "Frankfurt Stock Exchange, December 2014 · illustrative archival photograph; displayed prices are historical. Resized and compressed.",
+          "de": "Frankfurter Börse, Dezember 2014 · Symbolbild aus dem Archiv; angezeigte Kurse sind historisch. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Frankfurt_Stock_Exchange.jpg/960px-Frankfurt_Stock_Exchange.jpg"
+      }
+    },
+    {
+      "title": "Themen-ETFs setzen auf die Infrastruktur hinter KI",
+      "date": "2026-10-14",
+      "kind": "news",
+      "tag": "ETF-Entwicklungen",
+      "summary": "In einer am 14. Oktober veröffentlichten Mitteilung kündigte Amundi drei thematische UCITS-ETFs an: Raumfahrttechnologien, kritische Metalle und seltene Erden sowie Elektrifizierungsinfrastruktur. Als Börsenstart auf Xetra und Euronext Paris nannte der Anbieter den 20. Oktober. Die Fonds zielen auf materielle Voraussetzungen des Technologieausbaus wie Stromnetze, Rohstoffe und Raumfahrtinfrastruktur statt ausschließlich auf Softwarefirmen.",
+      "whyItMatters": "Ein überzeugendes Thema kann dennoch konzentrierte Risiken bedeuten. Indexregeln, enthaltene Unternehmen, Bewertung und Überschneidungen mit bestehenden Fonds zählen mehr als der Themenname allein.",
+      "sources": [
+        {
+          "label": "Amundi · Ankündigung von drei Themen-ETFs",
+          "url": "https://www.amundietf.co.uk/en/professional/about-us/company-news/investors-notice/amundi-adds-three-ai-future-technology-thematic-etfs"
+        }
+      ],
+      "image": {
+        "src": "assets/world-10.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:DTE_Monroe_Power_Plant.jpg",
+        "credit": "JGone41 / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "DTE Monroe power plant in Monroe, Michigan",
+          "de": "Kraftwerk DTE Monroe in Monroe, Michigan"
+        },
+        "caption": {
+          "en": "Illustrative photo: DTE Monroe power plant in Michigan, photographed in January 2026.",
+          "de": "Symbolbild: Kraftwerk DTE Monroe in Michigan, aufgenommen im Jänner 2026."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/DTE_Monroe_Power_Plant.jpg/960px-DTE_Monroe_Power_Plant.jpg"
+      }
+    },
+    {
+      "title": "Anlegerwissen: Was deckt ein Weltindex wirklich ab?",
+      "date": null,
+      "kind": "background",
+      "tag": "Diversifikation",
+      "summary": "Der MSCI World umfasst große und mittlere Unternehmen aus Industrieländern. Sein Name bedeutet nicht, dass jedes Land oder jede Firma enthalten ist: Für Schwellenländer und kleine Unternehmen braucht es ein breiteres oder anderes Indexuniversum. Auch ein Fonds mit vielen Aktien kann stark von einzelnen Ländern, Branchen oder seinen größten Positionen abhängen.",
+      "whyItMatters": "Vor dem Zählen verschiedener Fonds hilft der Blick auf Indexdefinition und Bestände. Zwei ähnliche ETFs können einen großen Teil derselben Anlagen mehrfach abdecken.",
+      "sources": [
+        {
+          "label": "MSCI · Industrieländer und MSCI World",
+          "url": "https://www.msci.com/world"
+        },
+        {
+          "label": "MSCI · World-Factsheet und Methodenverweise",
+          "url": "https://www.msci.com/documents/10199/f0e54c85-98b7-40eb-9a7b-bbb03288b523"
+        },
+        {
+          "label": "Investor.gov · Diversifikation bei Fonds",
+          "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/characteristics-mutual-funds-exchange-traded-funds"
+        }
+      ],
+      "image": {
+        "src": "assets/finance-01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide-Angle_New_York_Stock_Exchange_(51680640260).jpg",
+        "credit": "Billie Grace Ward / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": {
+          "en": "The New York Stock Exchange building photographed with a wide-angle lens",
+          "de": "Das Gebäude der New Yorker Börse, mit Weitwinkelobjektiv fotografiert"
+        },
+        "caption": {
+          "en": "New York Stock Exchange, August 2021 · illustrative archival photograph. Resized and compressed.",
+          "de": "New Yorker Börse, August 2021 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg/960px-Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg"
+      }
+    },
+    {
+      "title": "Anlegerwissen: ETF-Kosten reichen über die Jahresgebühr hinaus",
+      "date": null,
+      "kind": "background",
+      "tag": "Kosten & Handel",
+      "summary": "Die jährliche Fondsgebühr ist nur ein Kostenbestandteil. Brokergebühren und die Spanne zwischen Kauf- und Verkaufskurs beeinflussen ebenfalls jede Transaktion. Der Börsenkurs eines ETF kann vom Nettoinventarwert abweichen. Eine Limitorder begrenzt den schlechtesten akzeptierten Ausführungskurs; erreicht der Markt das Limit nicht, kann sie unausgeführt bleiben.",
+      "whyItMatters": "Bei kleinen regelmäßigen Käufen fallen fixe Handelsgebühren stärker ins Gewicht. Laufende Kosten und Handelskosten gemeinsam ergeben ein vollständigeres Bild als eine einzelne Gebührenzahl.",
+      "sources": [
+        {
+          "label": "Investor.gov · ETF-Gebühren, Spreads und Preisbildung",
+          "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24"
+        },
+        {
+          "label": "Invesco · Marktorders und Limitorders",
+          "url": "https://www.invesco.com/us/en/insights/a-quick-qa-on-etfs.html"
+        }
+      ],
+      "image": {
+        "src": "assets/finance-04.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minhas_Economias_,_My_Savings_-_Flickr_-_Jeff_Belmonte.jpg",
+        "credit": "Jeff Belmonte / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": {
+          "en": "Stacks of coins photographed at close range",
+          "de": "Nahaufnahme mehrerer Münzstapel"
+        },
+        "caption": {
+          "en": "Stacks of coins, October 2004 · illustrative archival photograph. Resized and compressed.",
+          "de": "Münzstapel, Oktober 2004 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Minhas_Economias_%2C_My_Savings_-_Flickr_-_Jeff_Belmonte.jpg"
+      }
+    },
+    {
+      "title": "Anlegerwissen: Euro-Handel beseitigt kein Währungsrisiko",
+      "date": null,
+      "kind": "background",
+      "tag": "Währungsrisiko",
+      "summary": "Die Handelswährung eines ETF beschreibt, in welcher Währung sein Kurs an einem Handelsplatz angegeben wird. Sie verändert die enthaltenen Anlagen nicht. Ein in Euro gehandelter Fonds mit ausländischen Aktien kann daher weiter von Wechselkursen beeinflusst werden. Währungsgesicherte Anteilsklassen nutzen einen eigenen Mechanismus und müssen ausdrücklich erkennbar sein; ein EUR-Kürzel allein belegt keine Absicherung.",
+      "whyItMatters": "Die Währung beim Kauf und die Währungen hinter dem Portfolio sind getrennte Fragen. Das erklärt mit, warum Indexrendite und persönliche Rendite in Euro auseinanderliegen können.",
+      "sources": [
+        {
+          "label": "iShares · ETF-Checkliste und Handelswährungen",
+          "url": "https://www.ishares.com/uk/individual/education/getting-started-with-etfs/investor-education/etf-checklist"
+        },
+        {
+          "label": "Xtrackers · Währungsrisiko und gesicherte Anteilsklassen",
+          "url": "https://etf.dws.com/en-no/knowledge/faq-etfs/"
+        }
+      ],
+      "image": {
+        "src": "assets/finance-02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_(EZB),_Frankfurt,_Germany.jpg",
+        "credit": "Hartmut Schmidt Heidelberg / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": {
+          "en": "The European Central Bank headquarters and the Flößerbrücke in Frankfurt",
+          "de": "Der Sitz der Europäischen Zentralbank und die Flößerbrücke in Frankfurt"
+        },
+        "caption": {
+          "en": "ECB headquarters in Frankfurt, April 2019 · illustrative archival photograph. Resized and compressed.",
+          "de": "EZB-Sitz in Frankfurt, April 2019 · Symbolbild aus dem Archiv. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/European_Central_Bank_%28EZB%29%2C_Frankfurt%2C_Germany.jpg/960px-European_Central_Bank_%28EZB%29%2C_Frankfurt%2C_Germany.jpg"
+      }
+    },
+    {
+      "title": "Anlegerwissen: Fonds mit dem Basisinformationsblatt vergleichen",
+      "date": null,
+      "kind": "background",
+      "tag": "EU-Fondsdokumente",
+      "summary": "Das PRIIPs-Basisinformationsblatt der EU, kurz KID, fasst ein verpacktes Anlageprodukt auf höchstens drei Seiten zusammen. Es beschreibt die Zielgruppe, Risiko und Ertrag, mögliche Verluste, Wertentwicklungsszenarien und Kosten. Zusammen mit Factsheet und Verkaufsprospekt hilft es dabei zu verstehen, was das Produkt leisten soll und wie es funktioniert.",
+      "whyItMatters": "Ein einheitliches Dokument erleichtert Vergleiche jenseits von Werbung und vergangenen Renditen. Szenarien zeigen mögliche Verläufe; sie sind kein Versprechen einer künftigen Wertentwicklung.",
+      "sources": [
+        {
+          "label": "Europäische Kommission · PRIIPs-Basisinformationsblätter",
+          "url": "https://finance.ec.europa.eu/consumer-finance-and-payments/retail-financial-services/key-information-documents-packaged-retail-and-insurance-based-investment-products-priips_en"
+        }
+      ],
+      "image": {
+        "src": "assets/finance-03.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange.jpg",
+        "credit": "Pythagomath / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": {
+          "en": "The trading hall and price board inside the Frankfurt Stock Exchange",
+          "de": "Handelssaal und Kurstafel der Frankfurter Wertpapierbörse"
+        },
+        "caption": {
+          "en": "Frankfurt Stock Exchange, December 2014 · illustrative archival photograph; displayed prices are historical. Resized and compressed.",
+          "de": "Frankfurter Börse, Dezember 2014 · Symbolbild aus dem Archiv; angezeigte Kurse sind historisch. Verkleinert und komprimiert."
+        },
+        "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Frankfurt_Stock_Exchange.jpg/960px-Frankfurt_Stock_Exchange.jpg"
+      }
+    }
+  ]
+}

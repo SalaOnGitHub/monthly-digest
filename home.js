@@ -8,6 +8,14 @@ const topicCopy={
  ai:{name:'KI',label:'KI MONTHLY DIGEST',first:'KI verstehen.',second:'Monat für Monat.',description:'Modelle, Werkzeuge und die Menschen dahinter. Zehn KI-Highlights pro Ausgabe – kompakt auf Folien, mit Quellen zum Weiterlesen.',cover:['Künstliche Intelligenz.','Neue Perspektiven.'],symbol:'✳',path:'months/2026-10/index.html',count:10,note:'Oktober 2026 · 10 Folien',archive:'Zehn Ausgaben von Jänner bis Oktober 2026. Jeweils zehn Folien mit Quellen und Bildnachweisen.',archiveNote:'Nach dem Originalprojekt von Niksa Visic · Englische Originale mit deutscher Übersetzung'},
  world:{name:'Weltgeschehen',label:'WELT MONTHLY DIGEST',first:'Was die Welt',second:'gerade bewegt.',description:'Politik, Gesellschaft, Wirtschaft und Wissenschaft. Eine Auswahl internationaler Entwicklungen – verständlich zusammengefasst und mit Quellen zum Nachlesen.',cover:['Die Welt im Blick.','Ein Monat in Perspektive.'],symbol:'◎',path:'topics/world/2026-10/index.html',count:1,dataKey:'world',note:'Oktober 2026 · 10 Meldungen · Stand 28.10.',archive:'Dein Archiv startet mit Oktober 2026. Neue Ausgaben finden hier ihren Platz.',archiveNote:'Recherche-Stand: 28. Oktober 2026 · Auswahl, kein vollständiger Monatsrückblick'}
  }};
+Object.assign(topicCopy.en,{
+ finance:{name:'Finance',label:'FINANCE MONTHLY DIGEST',first:'Understand markets.',second:'Invest with perspective.',description:'Stocks, ETFs and the forces shaping them. Market developments, company results and practical investing knowledge, explained with sources.',cover:['Markets in context.','Investing made clearer.'],path:'topics/finance/2026-10/index.html',count:1,dataKey:'finance',note:'October 2026 · 10 reads · As of October 29',archive:'Your finance archive begins with October 2026. Ten reads on stocks, ETFs and investing.',archiveNote:'Research cutoff: October 29, 2026 · Market news and clearly labelled investor explainers'},
+ 'supply-chain':{name:'Supply chain applications',label:'SUPPLY CHAIN MONTHLY DIGEST',first:'Follow the changes.',second:'See the applications.',description:'Planning, logistics, automation and the systems connecting them. Discover new supply chain developments and what they mean in practice.',cover:['From insight to action.','Supply chains, evolving.'],path:'topics/supply-chain/2026-10/index.html',count:1,dataKey:'supply-chain',note:'October 2026 · 10 reads · As of October 29',archive:'Your supply chain archive begins with October 2026. Applications, developments and standards for your working day.',archiveNote:'Research cutoff: October 29, 2026 · Announcements, industry analysis and standards explainers'}
+});
+Object.assign(topicCopy.de,{
+ finance:{name:'Finanzen',label:'FINANZEN MONTHLY DIGEST',first:'Märkte verstehen.',second:'Investieren einordnen.',description:'Aktien, ETFs und die Entwicklungen dahinter. Marktnachrichten, Unternehmensergebnisse und praktisches Anlegerwissen – verständlich erklärt und mit Quellen.',cover:['Märkte im Kontext.','Investieren verstehen.'],path:'topics/finance/2026-10/index.html',count:1,dataKey:'finance',note:'Oktober 2026 · 10 Beiträge · Stand 29.10.',archive:'Dein Finanzarchiv startet mit Oktober 2026. Zehn Beiträge über Aktien, ETFs und das Investieren.',archiveNote:'Recherche-Stand: 29. Oktober 2026 · Marktnachrichten und klar gekennzeichnetes Anlegerwissen'},
+ 'supply-chain':{name:'Supply-Chain-Anwendungen',label:'SUPPLY CHAIN MONTHLY DIGEST',first:'Entwicklungen verfolgen.',second:'Anwendungen verstehen.',description:'Planung, Logistik, Automatisierung und die Systeme dazwischen. Entdecke neue Entwicklungen in der Supply Chain und erfahre, was sie in der Praxis bedeuten.',cover:['Von Wissen zu Anwendung.','Lieferketten im Wandel.'],path:'topics/supply-chain/2026-10/index.html',count:1,dataKey:'supply-chain',note:'Oktober 2026 · 10 Beiträge · Stand 29.10.',archive:'Dein Supply-Chain-Archiv startet mit Oktober 2026. Anwendungen, Entwicklungen und Standards für deinen Arbeitsalltag.',archiveNote:'Recherche-Stand: 29. Oktober 2026 · Ankündigungen, Branchenanalyse und Erklärstücke zu Standards'}
+});
 const monthNames={en:['January','February','March','April','May','June','July','August','September','October'],de:['Jänner','Februar','März','April','Mai','Juni','Juli','August','September','Oktober']};
 const tabButtons=[...document.querySelectorAll('[role="tab"]')];let activeKey='ai';
 const L=window.DigestLanguage;
@@ -29,7 +37,7 @@ function renderTopic(key,announce=true){
  document.querySelector('[role="tablist"]')?.setAttribute('aria-label',de?'Thema auswählen':'Choose a topic');
  document.querySelector('.brand')?.setAttribute('aria-label',de?'Monthly Digest Startseite':'Monthly Digest home');
  document.getElementById('topic-panel')?.setAttribute('aria-labelledby','tab-'+key);
- setText('ai-tab-name',topicCopy[lang].ai.name);setText('world-tab-name',topicCopy[lang].world.name);
+ for(const topicKey of Object.keys(topicCopy[lang]))setText(topicKey+'-tab-name',topicCopy[lang][topicKey].name);
  setText('topic-label',topic.label);setText('headline-first',topic.first);setText('headline-second',topic.second);setText('topic-description',topic.description);setText('latest-note',topic.note);setText('cover-topic',topic.label);setText('cover-date',de?'OKT / 2026':'OCT / 2026');setText('cover-label',de?'DIE OKTOBER-AUSGABE':'THE OCTOBER ISSUE');
  const photo=window.digestImages[key];
  const coverImage=document.getElementById('cover-image');if(coverImage){coverImage.src=photo.src;coverImage.alt=photo.alt[lang];}
@@ -45,6 +53,7 @@ function renderTopic(key,announce=true){
  setText('archive-description',topic.archive);setText('archive-note',topic.archiveNote);
  const grid=document.getElementById('month-grid');if(grid)grid.replaceChildren(...(key==='ai'?Array.from({length:10},(_,i)=>{const n=10-i;return makeMonthCard(monthNames[lang][n-1],'months/2026-'+String(n).padStart(2,'0')+'/index.html',i===0);}):[makeMonthCard(monthNames[lang][9],topic.path,true)]));
  const data=window.digestCatalog?.[topic.dataKey]?.[lang];
+ setText('preview-note',data?.previewNote||data?.editionNote||L.text('previewNote'));
  const preview=document.getElementById('issue-preview');if(preview)preview.hidden=!data;
  const previews=document.getElementById('story-preview');
  if(previews)previews.replaceChildren(...(data?.items||[]).slice(0,3).map((item,index)=>{
