@@ -14,6 +14,10 @@ Arrow keys, buttons and touch swipes navigate stories. Home / End selects the fi
 
 Topic links: `#ai` and `#world`. Older `#weltgeschehen` links also select world news.
 
+## Reading layout
+
+The site uses one text family throughout. On laptop screens, compact slide layouts keep the story, image credits and navigation together. Narrow screens and high browser zoom use normal page scrolling; there are no nested scrolling panels inside slides. World-news previews use bounded landscape thumbnails.
+
 ## Content and sources
 
 The world-news edition contains ten selected developments researched through **October 28, 2026**. October is still in progress. Forecasts and ongoing developments are identified in the text; each story links to its sources. The English edition translates the existing German issue without changing its research cutoff.
@@ -31,6 +35,7 @@ Images in the AI archive load from external providers and retain their original 
 ## Source layout
 
 - `index.html`, `home.css`, `home.js`: topic selection and archive.
+- `typography.css`: consistent typography across the homepage and readers.
 - `language.js`, `language.css`: shared language preference, controls and interface translations.
 - `months/YYYY-MM/`: original English AI issues, with `translations-de.js` for each month.
 - `ai-language.js`: applies AI story translations and navigation labels.
