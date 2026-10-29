@@ -1,44 +1,18 @@
 <!doctype html>
-<html lang="de">
-<head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Dein Monatsüberblick für KI, Webtoons, Manga und Weltgeschehen. Wähle ein Thema und entdecke die passende Monthly-Digest-Ausgabe.">
-<meta name="theme-color" content="#f4f1ea"><title>Monthly Digest · KI, Webtoons, Manga &amp; Weltgeschehen</title>
-<link rel="stylesheet" href="home.css"><script src="news-data.js" defer></script><script src="home.js" defer></script>
-</head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Monthly highlights on artificial intelligence and world news. Read in English or German."><meta name="theme-color" content="#f4f1ea"><title>Monthly Digest · AI &amp; World News</title><link rel="stylesheet" href="home.css"><link rel="stylesheet" href="language.css"><script src="language.js" defer></script><script src="news-data.js" defer></script><script src="home.js" defer></script></head>
 <body data-topic="ai">
-<a class="skip" href="#main">Zum Inhalt</a>
-<header class="masthead wrap">
-<a class="brand" href="index.html" aria-label="Monthly Digest Startseite"><span class="brand-mark" aria-hidden="true">m<span>·</span></span><span>monthly<br>digest</span></a>
-<p class="masthead-note">Ein Monat. Deine Themen.</p><a class="archive-shortcut" href="#ausgaben">Zum Monatsarchiv <span aria-hidden="true">↘</span></a>
-</header>
-<nav class="topic-navigation wrap" aria-label="Digest-Themen">
-<div class="topic-tabs" role="tablist" aria-label="Thema auswählen">
-<button type="button" role="tab" id="tab-ai" data-topic="ai" aria-selected="true" aria-controls="topic-panel" tabindex="0"><span aria-hidden="true">01</span> KI</button>
-<button type="button" role="tab" id="tab-webtoons" data-topic="webtoons" aria-selected="false" aria-controls="topic-panel" tabindex="-1"><span aria-hidden="true">02</span> Webtoons</button>
-<button type="button" role="tab" id="tab-manga" data-topic="manga" aria-selected="false" aria-controls="topic-panel" tabindex="-1"><span aria-hidden="true">03</span> Manga</button>
-<button type="button" role="tab" id="tab-weltgeschehen" data-topic="weltgeschehen" aria-selected="false" aria-controls="topic-panel" tabindex="-1"><span aria-hidden="true">04</span> Weltgeschehen</button>
-</div><span class="collection-note">VIER THEMEN. EIN ÜBERBLICK.</span>
-</nav>
+<a class="skip" href="#main" data-i18n="skip">Skip to content</a>
+<header class="masthead wrap"><a class="brand" href="index.html" aria-label="Monthly Digest home"><span class="brand-mark" aria-hidden="true">m<span>·</span></span><span>monthly<br>digest</span></a><p class="masthead-note" data-i18n="tagline">One month. Your perspectives.</p><div class="header-tools"><a class="archive-shortcut" href="#ausgaben" data-i18n="archive">Monthly archive ↘</a><div data-language-switch></div></div></header>
+<nav class="topic-navigation wrap" aria-label="Digest topics"><div class="topic-tabs" role="tablist" aria-label="Choose a topic">
+<button type="button" role="tab" id="tab-ai" data-topic="ai" aria-selected="true" aria-controls="topic-panel" tabindex="0"><span aria-hidden="true">01</span> <span id="ai-tab-name">AI</span></button>
+<button type="button" role="tab" id="tab-world" data-topic="world" aria-selected="false" aria-controls="topic-panel" tabindex="-1"><span aria-hidden="true">02</span> <span id="world-tab-name">World news</span></button>
+</div><span class="collection-note" data-i18n="topics">TWO TOPICS. ONE OVERVIEW.</span></nav>
 <main id="main"><div id="topic-panel" role="tabpanel" aria-labelledby="tab-ai" tabindex="0">
-<section class="hero wrap" aria-labelledby="hero-title"><div class="hero-copy">
-<p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> <span id="topic-label">AI MONTHLY DIGEST</span></p>
-<h1 id="hero-title"><span id="headline-first">KI verstehen.</span><br><em id="headline-second">Monat für Monat.</em></h1>
-<p class="intro" id="topic-description">Modelle, Werkzeuge und die Menschen dahinter. Zehn KI-Highlights pro Ausgabe – kompakt auf Folien, mit Links zum Weiterlesen.</p>
-<a class="button primary" id="latest-link" href="months/2026-10/index.html">Oktober-Ausgabe öffnen <span aria-hidden="true">↗</span></a>
-<p class="hero-note" id="latest-note">Oktober 2026 · 10 Folien · Original auf Englisch</p></div>
-<a class="issue-cover" id="cover-link" href="months/2026-10/index.html" aria-label="KI-Digest für Oktober 2026 öffnen">
-<div class="cover-top"><span id="cover-topic">AI MONTHLY DIGEST</span><span>OKT / 2026</span></div>
-<div class="cover-art" aria-hidden="true"><span class="orbit orbit-one"></span><span class="orbit orbit-two"></span><span class="orbit orbit-three"></span><span class="art-ten">10</span><span class="art-star" id="cover-symbol">✳</span></div>
-<div class="cover-bottom"><div><span class="cover-label">DIE OKTOBER-AUSGABE</span><strong id="cover-title">Künstliche Intelligenz.<br>Neue Perspektiven.</strong></div><span class="cover-arrow" aria-hidden="true">↗</span></div></a></section>
-<div class="format-line wrap"><p><strong>10</strong> Meldungen je Ausgabe</p><p><strong id="issue-count">10</strong> <span id="issue-count-label">Ausgaben im Archiv</span></p><p><strong id="language-short">EN</strong> <span id="language-label">Originalausgaben</span></p><span>Lesen. Einordnen. Weiterdenken.</span></div>
-<section class="preview-section wrap" id="issue-preview" aria-labelledby="preview-title" hidden>
-<div class="section-heading"><div><p class="eyebrow">EIN BLICK IN DIE AUSGABE</p><h2 id="preview-title">Das ist diesen Monat dabei.</h2></div><p>Ausgewählte Meldungen bis 28. Oktober 2026.<br>Der Monat ist noch nicht abgeschlossen.</p></div><div class="story-preview" id="story-preview"></div></section>
-<section class="archive wrap" id="ausgaben" aria-labelledby="archive-title"><div class="section-heading"><div><p class="eyebrow" id="archive-label">DEIN KI-ARCHIV</p><h2 id="archive-title">Die Monate im Überblick.</h2></div><p id="archive-description">Zehn Originalausgaben von Jänner bis Oktober 2026.<br>Jeweils zehn Folien mit Quellen und Bildnachweisen.</p></div>
-<div class="month-grid" id="month-grid"></div><p class="archive-note" id="archive-note">Aus dem Originalprojekt von Niksa Visic · Englisch</p></section>
-</div><p class="sr-only" id="topic-announcement" aria-live="polite"></p>
-<noscript><div class="wrap no-script"><p>Bitte JavaScript für die Themen-Tabs aktivieren. Die aktuellen Ausgaben kannst du auch direkt öffnen:</p><p><a href="months/2026-10/index.html">KI</a> · <a href="topics/webtoons/2026-10/index.html">Webtoons</a> · <a href="topics/manga/2026-10/index.html">Manga</a> · <a href="topics/world/2026-10/index.html">Weltgeschehen</a></p></div></noscript>
-</main>
-<footer class="footer wrap"><div><a class="footer-brand" href="index.html">monthly digest<span>·</span></a><p>KI. Webtoons. Manga. Weltgeschehen.</p></div><div class="credits"><p>KI-Archiv nach dem <a href="https://github.com/niksavis/ai-monthly-digest" target="_blank" rel="noopener noreferrer">Projekt von Niksa Visic ↗</a></p><p><a href="https://github.com/SalaOnGitHub/monthly-digest" target="_blank" rel="noopener noreferrer">Quellcode auf GitHub ↗</a> · <a href="README.md">Über diesen Digest</a> · <a href="LICENSE">MIT-Lizenz</a></p></div></footer>
-</body></html>
+<section class="hero wrap" aria-labelledby="hero-title"><div class="hero-copy"><p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> <span id="topic-label">AI MONTHLY DIGEST</span></p><h1 id="hero-title"><span id="headline-first">Understand AI.</span><br><em id="headline-second">Month by month.</em></h1><p class="intro" id="topic-description">Models, tools and the people behind them. Ten AI highlights in each issue, with sources to explore further.</p><a class="button primary" id="latest-link" href="months/2026-10/index.html" data-i18n="latest">Open October issue ↗</a><p class="hero-note" id="latest-note">October 2026 · 10 slides</p></div>
+<a class="issue-cover" id="cover-link" href="months/2026-10/index.html" aria-label="Open the October 2026 AI digest"><div class="cover-top"><span id="cover-topic">AI MONTHLY DIGEST</span><span id="cover-date">OCT / 2026</span></div><div class="cover-art" aria-hidden="true"><span class="orbit orbit-one"></span><span class="orbit orbit-two"></span><span class="orbit orbit-three"></span><span class="art-ten">10</span><span class="art-star" id="cover-symbol">✳</span></div><div class="cover-bottom"><div><span class="cover-label" id="cover-label">THE OCTOBER ISSUE</span><strong id="cover-title">Artificial intelligence.<br>Fresh perspectives.</strong></div><span class="cover-arrow" aria-hidden="true">↗</span></div></a></section>
+<div class="format-line wrap"><p><strong>10</strong> <span data-i18n="highlights">highlights per issue</span></p><p><strong id="issue-count">10</strong> <span id="issue-count-label">issues in the archive</span></p><p><strong>EN/DE</strong> <span id="language-label">Choose your language</span></p><span data-i18n="format">Read. Understand. Explore.</span></div>
+<section class="preview-section wrap" id="issue-preview" aria-labelledby="preview-title" hidden><div class="section-heading"><div><p class="eyebrow" data-i18n="previewLabel">INSIDE THIS ISSUE</p><h2 id="preview-title" data-i18n="previewTitle">This month at a glance.</h2></div><p data-i18n="previewNote">Selected stories through October 28, 2026. The month is still in progress.</p></div><div class="story-preview" id="story-preview"></div></section>
+<section class="archive wrap" id="ausgaben" aria-labelledby="archive-title"><div class="section-heading"><div><p class="eyebrow" id="archive-label">YOUR AI ARCHIVE</p><h2 id="archive-title" data-i18n="archiveTitle">Browse the monthly archive.</h2></div><p id="archive-description">Ten issues from January to October 2026. Ten slides each, with sources and image credits.</p></div><div class="month-grid" id="month-grid"></div><p class="archive-note" id="archive-note">Based on the original project by Niksa Visic.</p></section>
+</div><p class="sr-only" id="topic-announcement" aria-live="polite"></p><noscript><div class="wrap no-script"><p>Enable JavaScript for the language selector and topic tabs. Current issues: <a href="months/2026-10/index.html">AI</a> · <a href="topics/world/2026-10/index.html">World news</a></p></div></noscript></main>
+<footer class="footer wrap"><div><a class="footer-brand" href="index.html">monthly digest<span>·</span></a><p data-i18n="footer">AI. World news.</p></div><div class="credits"><p><a href="https://github.com/niksavis/ai-monthly-digest" target="_blank" rel="noopener noreferrer" data-i18n="original">AI archive based on the project by Niksa Visic ↗</a></p><p><a href="https://github.com/SalaOnGitHub/monthly-digest" target="_blank" rel="noopener noreferrer" data-i18n="source">Source on GitHub ↗</a> · <a href="README.md" data-i18n="about">About this digest</a> · <a href="LICENSE" data-i18n="license">MIT license</a></p></div></footer></body></html>
 

@@ -14,7 +14,7 @@ function show(index,updateUrl=true,scroll=true){
  if(previous)previous.disabled=current===0;if(next)next.disabled=current===stories.length-1;
  const count=document.getElementById('reader-count');if(count)count.textContent=String(current+1).padStart(2,'0')+' / '+stories.length;
  const progress=document.getElementById('reader-progress');if(progress)progress.value=current+1;
- const live=document.getElementById('reader-live');if(live)live.textContent='Meldung '+(current+1)+' von '+stories.length+': '+stories[current].querySelector('h2')?.textContent;
+ const live=document.getElementById('reader-live');if(live){const de=window.DigestLanguage?.get()==='de';live.textContent=(de?'Meldung ':'Story ')+(current+1)+(de?' von ':' of ')+stories.length+': '+stories[current].querySelector('h2')?.textContent;}
  if(updateUrl)history.replaceState(null,'','#'+(current+1));
  if(scroll)window.scrollTo({top:0,behavior:'instant'});
 }
@@ -36,3 +36,4 @@ const main=document.getElementById('main');
 main?.addEventListener('touchstart',event=>{const t=event.changedTouches[0];touchStart=t?{x:t.clientX,y:t.clientY}:null;},{passive:true});
 main?.addEventListener('touchend',event=>{const t=event.changedTouches[0];if(!touchStart||!t)return;const x=touchStart.x-t.clientX,y=touchStart.y-t.clientY;touchStart=null;if(Math.abs(x)>65&&Math.abs(x)>Math.abs(y)*1.5)show(current+(x>0?1:-1));},{passive:true});
 show(hashIndex(),true,false);
+window.addEventListener('digestlanguagechange',()=>show(current,false,false));

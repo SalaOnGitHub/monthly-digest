@@ -55,7 +55,7 @@ const updateUI = () => {
     const title =
       slides[currentIndex]?.querySelector(".slide__title")?.textContent ||
       `Slide ${currentIndex + 1}`;
-    liveRegion.textContent = `Slide ${currentIndex + 1} of ${slides.length}: ${title}`;
+    liveRegion.textContent = window.DigestLanguage?.get()==='de' ? `Folie ${currentIndex + 1} von ${slides.length}: ${title}` : `Slide ${currentIndex + 1} of ${slides.length}: ${title}`;
   }
 };
 
@@ -167,3 +167,5 @@ if (slides.length > 0) {
   updateUI();
   setHash();
 }
+
+window.addEventListener("digestlanguagechange", () => updateUI());
